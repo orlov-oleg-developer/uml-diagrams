@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T09:54:34.961Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JgQBzYtshM2sO1o90dhy" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T10:15:48.074Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JjtWj8Qfb-B-DxV9CoXL" version="22.0.8" type="github">
   <diagram name="Themes" id="SAb5eQocV6z7SgWIaTcl">
-    <mxGraphModel dx="1247" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1029" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="2iayjj1OqmgtFofdx8OK-36" value="global.scss" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2010.5" y="269" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2iayjj1OqmgtFofdx8OK-38" value="Создание темы" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="26" y="-336" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
