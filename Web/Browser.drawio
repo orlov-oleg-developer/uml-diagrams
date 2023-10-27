@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T09:41:26.787Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oDhBZjMdYo0YeA4bP6dw" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-27T09:46:02.387Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="95m_JdEX2NF0BR0Vf9DR" version="22.0.8" type="github" pages="5">
   <diagram name="Архитектура браузера" id="a0Z8TgE_5t0AycTjX8IS">
     <mxGraphModel dx="683" dy="360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0k3Bpl3Np0o2AIEpxUxi" name="Event loop">
-    <mxGraphModel dx="1434" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,13 +466,13 @@
         <mxCell id="bluWfKrIj64joZCxVYnw-55" value="&lt;b&gt;мАкротаски&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="468" y="639" width="120" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="bluWfKrIj64joZCxVYnw-56" value="&lt;b&gt;Промисы&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="bluWfKrIj64joZCxVYnw-56" value="&lt;b&gt;&amp;nbsp;Промисы&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="285" y="601" width="120" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="bluWfKrIj64joZCxVYnw-58" value="&lt;b&gt;queueMicrotask&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="bluWfKrIj64joZCxVYnw-58" value="&lt;b&gt;&amp;nbsp;queueMicrotask&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="285" y="639" width="120" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="bluWfKrIj64joZCxVYnw-61" value="&lt;b&gt;mutationObserver&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="bluWfKrIj64joZCxVYnw-61" value="&lt;b&gt;&amp;nbsp;mutationObserver&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="285" y="677" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="3eZy2PS18HKrNRMWlcUp-1" value="&lt;b&gt;&amp;nbsp;События (клик, загрузка изображения и т.д.)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" parent="1" vertex="1">
