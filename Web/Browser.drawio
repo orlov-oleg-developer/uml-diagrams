@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T06:13:58.644Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dxqs0u-sSy73yN3kftWN" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-27T06:14:46.501Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9uGJHkBNsNL73Cidb2J6" version="22.0.8" type="github" pages="4">
   <diagram name="Архитектура браузера" id="a0Z8TgE_5t0AycTjX8IS">
-    <mxGraphModel dx="548" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X9T75AaDacsZJfDQK5Mp" name="Chrome">
-    <mxGraphModel dx="794" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bVL1KgQKVDtNWJdaOLyt" name="webkit">
-    <mxGraphModel dx="1194" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,7 +298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0k3Bpl3Np0o2AIEpxUxi" name="Event loop">
-    <mxGraphModel dx="1434" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,7 +447,7 @@
           <mxGeometry x="250" y="350" width="182" height="58" as="geometry" />
         </mxCell>
         <mxCell id="bluWfKrIj64joZCxVYnw-48" value="&lt;b&gt;&lt;i&gt;Порядок: 1 - 4 - 3 - 2&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#fff2cc;strokeColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="37" y="512" width="232" height="34" as="geometry" />
+          <mxGeometry x="25" y="509" width="232" height="34" as="geometry" />
         </mxCell>
         <mxCell id="3eZy2PS18HKrNRMWlcUp-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#dae8fc;curved=1;" edge="1" parent="1" source="bluWfKrIj64joZCxVYnw-54" target="bluWfKrIj64joZCxVYnw-56">
           <mxGeometry relative="1" as="geometry" />
@@ -474,22 +474,22 @@
           <mxGeometry x="468" y="639" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="bluWfKrIj64joZCxVYnw-56" value="&lt;b&gt;Промисы&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="285" y="581" width="120" height="32" as="geometry" />
+          <mxGeometry x="285" y="601" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="bluWfKrIj64joZCxVYnw-58" value="&lt;b&gt;queueMicrotask&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="639" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="bluWfKrIj64joZCxVYnw-61" value="&lt;b&gt;mutationObserver&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="285" y="697" width="120" height="32" as="geometry" />
+          <mxGeometry x="285" y="677" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="3eZy2PS18HKrNRMWlcUp-1" value="&lt;b&gt;&amp;nbsp;События (клик, загрузка изображения и т.д.)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="648" y="639" width="267" height="32" as="geometry" />
         </mxCell>
         <mxCell id="3eZy2PS18HKrNRMWlcUp-2" value="&lt;b&gt;&amp;nbsp;Таймеры (setTimeout, setInterval)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" vertex="1" parent="1">
-          <mxGeometry x="648" y="581" width="194" height="32" as="geometry" />
+          <mxGeometry x="648" y="591" width="194" height="32" as="geometry" />
         </mxCell>
         <mxCell id="3eZy2PS18HKrNRMWlcUp-6" value="&lt;b&gt;&amp;nbsp;Браузерные нюансы (рендер, I/O и т.д.)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=none;align=left;" vertex="1" parent="1">
-          <mxGeometry x="648" y="690" width="267" height="32" as="geometry" />
+          <mxGeometry x="648" y="680" width="267" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
