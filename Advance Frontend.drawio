@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T18:36:50.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.931 YaBrowser/23.9.3.931 Yowser/2.5 Safari/537.36" etag="kH-3K5C2FsV1oqRawLPY" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T18:37:06.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.931 YaBrowser/23.9.3.931 Yowser/2.5 Safari/537.36" etag="X9oYOuUTeeioxVOZ0p1D" version="22.0.8" type="github">
   <diagram name="Themes" id="SAb5eQocV6z7SgWIaTcl">
-    <mxGraphModel dx="4497" dy="3060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="1408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry x="2010.5" y="643" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2iayjj1OqmgtFofdx8OK-38" value="Получение темы" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="26" y="-456" width="98" height="30" as="geometry" />
+          <mxGeometry x="21" y="-456" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cvOysCxhI57CH793qs8D-2" value="ThemeContext.ts" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1374" y="-212" width="124" height="30" as="geometry" />
