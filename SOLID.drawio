@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:47:20.028Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5CaN81jGsIJeWfngYEUT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:50:55.385Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bMj8ECzD5zMApQ_TBGdU" version="22.0.8" type="github">
   <diagram name="S" id="RaGAPnOn0WnEdb-jaaNc">
     <mxGraphModel dx="819" dy="431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="atiPBA8xLcMAGWpfqntU-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="561" y="231" width="377" height="268" as="geometry" />
+        </mxCell>
         <mxCell id="atiPBA8xLcMAGWpfqntU-1" value="Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="328" width="140" height="130" as="geometry" />
         </mxCell>
@@ -57,6 +60,12 @@
         </mxCell>
         <mxCell id="atiPBA8xLcMAGWpfqntU-21" value="+ printtoDoc(obj: Class)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="atiPBA8xLcMAGWpfqntU-19">
           <mxGeometry y="52" width="147" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atiPBA8xLcMAGWpfqntU-22" value="Модель данных" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="385" y="288" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="atiPBA8xLcMAGWpfqntU-23" value="Поведение" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="236" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
