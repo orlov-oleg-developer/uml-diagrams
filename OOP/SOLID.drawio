@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T03:26:48.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.833 YaBrowser/23.9.4.833 Yowser/2.5 Safari/537.36" etag="Cl_BdFYHuWI8vT-FMSig" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-03T06:57:53.853Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NLDPgbRpu7cnnK9FkZUk" version="22.0.8" type="github" pages="5">
   <diagram name="S" id="RaGAPnOn0WnEdb-jaaNc">
-    <mxGraphModel dx="989" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="atiPBA8xLcMAGWpfqntU-23" value="Поведение" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="693" y="236" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l-H1c2rvrNElCM8ixuVU-1" value="Single responsibility principle (Принцип единственной ответственности)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="l-H1c2rvrNElCM8ixuVU-1" value="Single responsibility principle (Принцип единственной ответственности)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="382" y="149" width="497" height="30" as="geometry" />
         </mxCell>
       </root>
