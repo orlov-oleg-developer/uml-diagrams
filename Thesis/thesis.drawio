@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T02:17:14.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.833 YaBrowser/23.9.4.833 Yowser/2.5 Safari/537.36" version="22.0.8" etag="mhdmA83BFOIg5idudLM7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T18:27:21.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.686 YaBrowser/23.9.5.686 Yowser/2.5 Safari/537.36" etag="G9IRtOqg-aHkvCvjPF5s" version="22.1.4" type="github">
   <diagram name="Page-1" id="HGPwwvY6KHSOpUENS4j6">
-    <mxGraphModel>
+    <mxGraphModel dx="1725" dy="-766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3-tNHXex5kVf7vj3LztI-1" value="failure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1450" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-2" value="Failure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-698" y="1450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-3" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1370" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-4" value="Идентификационный номер" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1370" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-5" value="energyID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-6" value="Идентификатор энергообъекта" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1410" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-7" value="energyTM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-8" value="Идентификатор ТМ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-9" value="filiation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-10" value="Филиал" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-11" value="voltage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-12" value="Напряжение энергообъекта" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1530" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-13" value="failureDate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-14" value="Дата и время возникновения события" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1570" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-15" value="restoreDate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-16" value="Дата и время восстановления" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1610" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-17" value="restoreDate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3-tNHXex5kVf7vj3LztI-18" value="Дата и время восстановления" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1650" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
