@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T09:52:21.156Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tBKQFqFevfOzKCa7l1hO" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:26:11.631Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qf5AR0qhHbXTxnU8c2CE" version="22.1.8" type="github" pages="3">
   <diagram name="Themes" id="SAb5eQocV6z7SgWIaTcl">
-    <mxGraphModel dx="3268" dy="2310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,39 +179,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jh07duGecE-oMZQGJs3j" name="Redux-toolkit">
-    <mxGraphModel dx="1197" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-1" value="Counter.tsx" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-1" value="Counter.tsx" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="13" y="-376" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="U6A7yN2jQ37yTZFAPLDD-3" target="U6A7yN2jQ37yTZFAPLDD-9">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#dae8fc;" parent="1" source="U6A7yN2jQ37yTZFAPLDD-3" target="U6A7yN2jQ37yTZFAPLDD-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="256" y="-310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-3" value="dispatch(counterActions.increment())" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-3" value="dispatch(counterActions.increment())" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-42" y="-325" width="234" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-4" value="counterSlice.ts" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-4" value="counterSlice.ts" style="text;html=1;strokeColor=none;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="-376" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6A7yN2jQ37yTZFAPLDD-9" target="U6A7yN2jQ37yTZFAPLDD-10">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U6A7yN2jQ37yTZFAPLDD-9" target="U6A7yN2jQ37yTZFAPLDD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-9" value="export const { actions: counterActions } = counterSlice;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-9" value="export const { actions: counterActions } = counterSlice;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="265" y="-325" width="322" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U6A7yN2jQ37yTZFAPLDD-10" target="U6A7yN2jQ37yTZFAPLDD-12">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U6A7yN2jQ37yTZFAPLDD-10" target="U6A7yN2jQ37yTZFAPLDD-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-10" value="export const counterSlice = createSlice({...})" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-10" value="export const counterSlice = createSlice({...})" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="265" y="-264" width="322" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U6A7yN2jQ37yTZFAPLDD-12" value="increment: (state) =&amp;gt; { state.value += 1 }," style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="U6A7yN2jQ37yTZFAPLDD-12" value="increment: (state) =&amp;gt; { state.value += 1 }," style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="265" y="-196" width="322" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ow7d3uhMtFQkbN3abxcV" name="FSD">
+    <mxGraphModel dx="1434" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
