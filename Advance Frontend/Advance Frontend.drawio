@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:26:11.631Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qf5AR0qhHbXTxnU8c2CE" version="22.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:30:25.264Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="laNmAysoxXqrEQGcWs_j" version="22.1.8" type="github" pages="3">
   <diagram name="Themes" id="SAb5eQocV6z7SgWIaTcl">
     <mxGraphModel dx="1834" dy="1555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,10 +216,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ow7d3uhMtFQkbN3abxcV" name="FSD">
-    <mxGraphModel dx="1434" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-1" value="shared" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="383" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-2" value="entities" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="334" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-3" value="features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="284" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-4" value="widgets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="235" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-5" value="pages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="185" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-6" value="processes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="136" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gUrnVq2OjJJNd1zjjs0d-7" value="app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="86" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
