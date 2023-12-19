@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T16:49:28.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="bsFaGKuuxV3ieNmH7C3p" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T16:50:32.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.771 YaBrowser/23.11.2.771 Yowser/2.5 Safari/537.36" etag="N1ztmh4dKc6_UWEwmCPR" version="22.1.11" type="github">
   <diagram name="Electricity" id="IWsAiTm0D_rk45sIsOZR">
-    <mxGraphModel dx="1756" dy="-673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="-936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,63 @@
         </mxCell>
         <mxCell id="cbDr0bFarPZ5LBcyghME-6" value="Занятие 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-291" y="1733" width="133" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-11" value="РАЗВИТИЕ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="566" y="1547" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-16" target="cbDr0bFarPZ5LBcyghME-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-16" target="cbDr0bFarPZ5LBcyghME-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-16" target="cbDr0bFarPZ5LBcyghME-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-16" target="cbDr0bFarPZ5LBcyghME-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-16" value="ЭЛЕКТРИЧЕСТВО" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1620" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-17" value="Занятие 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="1733" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-18" value="Занятие 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="138" y="1733" width="133" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-19" value="Занятие 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="301" y="1733" width="133" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-20" value="Занятие 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="463" y="1733" width="133" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-34" target="cbDr0bFarPZ5LBcyghME-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-34" target="cbDr0bFarPZ5LBcyghME-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-34" target="cbDr0bFarPZ5LBcyghME-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;labelBackgroundColor=default;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbDr0bFarPZ5LBcyghME-34" target="cbDr0bFarPZ5LBcyghME-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-34" value="ЭЛЕКТРИЧЕСТВО 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="907" y="1620" width="132" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-35" value="Занятие 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="666" y="1733" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-36" value="Занятие 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="822" y="1733" width="133" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-37" value="Занятие 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="985" y="1733" width="133" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="cbDr0bFarPZ5LBcyghME-38" value="Занятие 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="1733" width="133" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
