@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T12:26:44.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="U6acQM48wShno_XCGE9T" version="22.1.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-17T12:54:30.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="rENzCxFjMgKnNE2J7YCe" version="22.1.20" type="github" pages="3">
   <diagram name="START" id="IWsAiTm0D_rk45sIsOZR">
     <mxGraphModel dx="3668" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F9mJGb3ob7uM6d_bTg9J" name="Термодинамика">
-    <mxGraphModel dx="1167" dy="639" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,31 +339,31 @@
           <mxGeometry x="108" y="1285" width="550" height="108" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-4" value="&lt;b&gt;Закон сохранения энергии &lt;/b&gt;для данного типа задач&lt;br&gt;или &lt;b&gt;Уравнение теплового баланса&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="214" y="1960" width="338" height="30" as="geometry" />
+          <mxGeometry x="214" y="2150" width="338" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAALoAAAA6CAYAAAAHvkMpAAAFTElEQVR4Ae1Y7Y5jKwyb93/pXuVK1nrdBAKHnRYIUpUvOxCf/BjNz6tOKXCBAj8XzFgjlgKvWvRagisUqEW/4jPXkLXotQNXKFCLfsVnriFr0WsHrlCgFv2Kz1xD1qLXDlyhQC36FZ+5hqxFrx24QoFa9Cs+cw25fNF/fn5e+iuZS4FPK7Bs0XW5o/jTA9f9dyrweNGjhW7l75T696dufQOr3XQeTesJGYmn2AhX+TUKqN6teM2N391letE94TKjKi/DKUxeAdXXYj0ZjHJ2j99VSEw0K9QsL/Gkgrxeb/8E8JachdLvwbXT/OFFV3F6Yqpgytd6xXMKzOo6y5t75edYQ4uuolg8erTHKL/w7wqopiPfRbnv3c/IDG2qijIiKORa0QO9yo7/uaKa3fI90ou+SpBVffSD3Rh7Wlpu5Hg9Rvi7YNOqeIKMimqieH12Eevb3rlCyxU9vk0X7z2PFt1r2Mp5olquzpwCnp6jnVb0GL3zE/j0lqkgs49d1Wf2/tU8nWcmnnmTd88n+8zc/Zuc1KKXqPEn8bSZycU3+BXvDh/ZzqKPodhvs/arphadRXgqBviw+0m27sWmAbQd7Qr92I72wN3cA2+a6fXNnNSiqxAqRq8OAbI44MvGCqzSUvvEN+5dSS26jegJojmNWRqtWVxnXgHVUzv16oZXzMnfJL1tLApERQ6xJ56XO1FQzNSz0Ao4xKPW+PwDn3Oe38OhfpqdWnQVUEXhutU4hq+cXWPM89SOzq/3RTp7uAg7+oad8OlFHxFHxdV4J4F6b9XZZuLeHV5d7zEM55jj5TkHnzmn+b++6KcJuGIeW7SZAx4WFdbrxTX4bD3OSblhhVkc+BAEcWSBK7tWAdXb664Yjj38DjmewfzWaVcbTL2kFzdaVemhAqq9ttM6x4rdJeYZ2I/eP73o1pAvaPl8ueGiM9KjheUa36V5juEzfhcfbx+1u8znvTOa1cNaLt66iNHJew9gCuqcMx95WNQRm8XhXM+POJb3uMDvaL15olxvvogX5bVfhLN85kR85mYwwOduBTphvctB4xpysFGN8+bbQa7FVYxioxj53a1qBT2Qx3zII2aLGlurcwyfeYyBDxvhtQ6cWsPpSWGUtCLWizX27mBMq241YIHrxT2c8U8+0Ict5kUOsVrUzfKJ8oaJalHe64vcCMew0YkrESOR58ep79EZk6kDDyxiszjIIYbVvMbAnWQxY8t68yqeMVEtyoOLOmK1WkdsNjopTERekc88wO5hXDQQMN67UIu44ACHmO/m3Ik+Zvdsa17GM240D27E07rGxvNOrx84PhvVX7S9B6PuPQk1s60DHDCIezzgd7Y8K/u9mSLsaB73RDytawwe8maRg+Wa+u3NUPQ/jPFYs3paNcP26ugHHGLmcq78PwpAM7N8MnnlGD/icS1zD+O9e7jH/1hNfCqOBOB8NBBjovdHGOQj3u156GOWz2ge3IindY31ftSz9u/XZ1n/EMdCqO9dqxgVBDHjrA/H7Ht33JyLtInyqi1r53GQi3iom31ynrGf3BxwMZiV4beGZAz7aK85jj0fvLJ/6w+toAtiWORhOQ+freJGa+Bn7dctevbhGZwnnsfL4jzuyTnWBT7mRQyLPFuuwTeLwzn4rRpzgcvaP7dmGZvhVMDo+VlcxL81/1Q38M3qQc3y7CsuE793z7A2wmQFyuI2Gr2eSgpcseg0b+jaotc5V4H6uud+25qMFKhFJzHKPVeBWvRzv21NRgrUopMY5Z6rQC36ud+2JiMFatFJjHLPVaAW/dxvW5ORArXoJEa55yrwHx2XVCEmaTiHAAAAAElFTkSuQmCC;" parent="1" vertex="1">
-          <mxGeometry x="290.00476190476195" y="2011" width="186" height="58" as="geometry" />
+          <mxGeometry x="290.00476190476195" y="2201" width="186" height="58" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-6" value="&lt;b&gt;Qотд - &lt;/b&gt;количество теплоты, которое отдают части системы при переходе состояния" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="247" y="2093" width="272" height="30" as="geometry" />
+          <mxGeometry x="247" y="2283" width="272" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-7" value="&lt;b&gt;Qпол - &lt;/b&gt;количество теплоты, полученное другими частями системы в процессе перехода" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="247" y="2135" width="272" height="30" as="geometry" />
+          <mxGeometry x="247" y="2325" width="272" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-8" value="&lt;b&gt;Важно&lt;/b&gt;, чтобы &lt;b&gt;полная внутренняя энергия&lt;/b&gt; системы &lt;b&gt;не изменялась&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="549" y="2105" width="233" height="36" as="geometry" />
+          <mxGeometry x="549" y="2295" width="233" height="36" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
-          <mxGeometry x="234.00285714285712" y="2199.0042857142857" width="298" height="213" as="geometry" />
+          <mxGeometry x="234.00285714285712" y="2389.0042857142857" width="298" height="213" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-10" value="Расчёт теплоты, затраченной на &lt;b&gt;нагрев&lt;/b&gt;.&lt;b&gt; с&lt;/b&gt; - удельная теплоемкость" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="546" y="2223" width="435" height="30" as="geometry" />
+          <mxGeometry x="546" y="2413" width="435" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-11" value="Расчёт теплоты, затраченной на &lt;b&gt;плавление&lt;/b&gt;.&lt;b&gt;&amp;nbsp;λ&amp;nbsp;&lt;/b&gt;- удельная теплота плавления" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="546" y="2293" width="449" height="30" as="geometry" />
+          <mxGeometry x="546" y="2483" width="449" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lIKwSFNyk_6qBymxZ6I4-12" value="Расчёт теплоты, затраченной на &lt;b&gt;парообразование&lt;/b&gt;.&lt;b&gt;&amp;nbsp;r&amp;nbsp;&lt;/b&gt;- удельная теплота парообразования" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="546" y="2356" width="528" height="30" as="geometry" />
+          <mxGeometry x="546" y="2546" width="528" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2lWtGNFPKOMFoKJwEi_4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;" edge="1" parent="1" source="2lWtGNFPKOMFoKJwEi_4-1" target="2lWtGNFPKOMFoKJwEi_4-4">
           <mxGeometry relative="1" as="geometry" />
@@ -387,16 +387,46 @@
           <mxGeometry x="451.25" y="1504" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2lWtGNFPKOMFoKJwEi_4-10" value="  Широко применяется в металургии для получениях новых металлов" style="text;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="222.75" y="1551" width="397" height="30" as="geometry" />
+          <mxGeometry x="222.75" y="1611" width="397" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2lWtGNFPKOMFoKJwEi_4-11" value="  В паровых турбинах" style="text;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="222.75" y="1593" width="140" height="30" as="geometry" />
+          <mxGeometry x="222.75" y="1653" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2lWtGNFPKOMFoKJwEi_4-12" value="  Сжижженым газом пользуются в холодильных установках" style="text;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="222.75" y="1638" width="344" height="30" as="geometry" />
+          <mxGeometry x="222.75" y="1698" width="344" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2lWtGNFPKOMFoKJwEi_4-13" value="  Круговорот воды в природе" style="text;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="222.75" y="1684" width="344" height="30" as="geometry" />
+          <mxGeometry x="219" y="1808" width="344" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-15" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Состояния отличаются:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- расположением&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- характером движения&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- характером взаимодействия&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;между молекулами&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1504" width="202" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-16" value="&lt;b&gt;Передавая телу энергию: твердое =&amp;gt; жидкое =&amp;gt; газ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1763" width="338" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="2lWtGNFPKOMFoKJwEi_4-17" target="2lWtGNFPKOMFoKJwEi_4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="2lWtGNFPKOMFoKJwEi_4-17" target="2lWtGNFPKOMFoKJwEi_4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="2lWtGNFPKOMFoKJwEi_4-17" target="2lWtGNFPKOMFoKJwEi_4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-17" value="&lt;b&gt;Способы преобразования веществ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1924" width="236" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-18" value="&lt;b&gt;Плавление [твёрдое =&amp;gt; жидкое]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1877" width="211" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-20" value="&lt;b&gt;Плавление&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1924" width="135" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-22" value="&lt;b&gt;Плавление&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1971" width="135" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2lWtGNFPKOMFoKJwEi_4-24" value="  Температура, при которой плавится вещество называют температурой плавления" style="text;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1877" width="478" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
