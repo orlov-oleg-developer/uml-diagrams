@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T14:34:50.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="bk9EONgjsBdoKQnYnxFW" version="23.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T16:52:15.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="Zc3zbUN1G9c3XryjfHp9" version="24.0.4" type="github" pages="2">
   <diagram name="Page-1" id="HGPwwvY6KHSOpUENS4j6">
-    <mxGraphModel dx="1877" dy="-594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="-669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,11 +100,17 @@
         <mxCell id="HctxSup1etoDeiY_Jtnp-5" value="CatalogData[]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-470" y="1740" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="M1T9yq0SQ7yoylNlKxBZ-1" value="Динамика ИТС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1700" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M1T9yq0SQ7yoylNlKxBZ-2" value="Информация из каталога" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1739" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="1UJHRzUIxwHn8nCPzJdL" name="Экономический расчёт">
-    <mxGraphModel dx="2040" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3109" dy="1445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +323,7 @@
             <mxPoint x="859" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I9nlHF8Kg06qTY6QTW_9-1" value="СТО 34.01-24-002-2021" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="I9nlHF8Kg06qTY6QTW_9-1" value="СТО 34.01-24-002-2021" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#d5e8d4;strokeColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-801" y="2077" width="135" height="34" as="geometry" />
         </mxCell>
       </root>
