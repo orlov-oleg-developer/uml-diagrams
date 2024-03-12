@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T18:23:27.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="O39Hm7uwfAwrpJ6gbg2W" version="24.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:23:40.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="lN-qmCMvd68eS0itaxqa" version="24.0.4" type="github" pages="3">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="683" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,7 +144,7 @@
         <mxCell id="aUIz78P-kiw5no-S_cTd-4" value="Страницы&lt;div&gt;&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;Отключения&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ОтключенияОборудование&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="548" y="438" width="176" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aUIz78P-kiw5no-S_cTd-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;Фильтрация по&lt;/span&gt;&lt;/div&gt;&lt;span data-metadata=&quot;&lt;!--(figmeta)eyJmaWxlS2V5IjoiR2czTmlVSFFSbUNDME85YVZjOGY5YSIsInBhc3RlSUQiOjIwMDA2OTAwNzQsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Несёт ответственность&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;U &amp;gt;= 35 кВ&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Идентификатор ТМ !== undefined&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aUIz78P-kiw5no-S_cTd-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;Фильтрация по&lt;/span&gt;&lt;/div&gt;&lt;span data-metadata=&quot;&lt;!--(figmeta)eyJmaWxlS2V5IjoiR2czTmlVSFFSbUNDME85YVZjOGY5YSIsInBhc3RlSUQiOjIwMDA2OTAwNzQsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Несёт ответственность&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;U &amp;gt;= 35 кВ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Идентификатор ТМ !== undefined&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="773" y="422.5" width="238" height="81" as="geometry" />
         </mxCell>
       </root>
