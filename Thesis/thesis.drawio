@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T16:52:15.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="Zc3zbUN1G9c3XryjfHp9" version="24.0.4" type="github" pages="2">
-  <diagram name="Page-1" id="HGPwwvY6KHSOpUENS4j6">
-    <mxGraphModel dx="1740" dy="-669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:19:30.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="fCecF3AP5Poxq67-mGvc" version="24.0.4" type="github" pages="3">
+  <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
+    <mxGraphModel dx="2261" dy="-378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,17 +100,28 @@
         <mxCell id="HctxSup1etoDeiY_Jtnp-5" value="CatalogData[]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-470" y="1740" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M1T9yq0SQ7yoylNlKxBZ-1" value="Динамика ИТС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="M1T9yq0SQ7yoylNlKxBZ-1" value="Динамика ИТС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-400" y="1700" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M1T9yq0SQ7yoylNlKxBZ-2" value="Информация из каталога" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="M1T9yq0SQ7yoylNlKxBZ-2" value="Информация из каталога" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-360" y="1739" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
+    <mxGraphModel dx="683" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g2bqpZqb2KGJlpb1ctBQ-2" value="Обработка каталогов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="382" y="392" width="133" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="1UJHRzUIxwHn8nCPzJdL" name="Экономический расчёт">
-    <mxGraphModel dx="3109" dy="1445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="1191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
