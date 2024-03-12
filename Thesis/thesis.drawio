@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T18:27:48.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="asZDDc6HI6F65iFFQHTR" version="24.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:28:49.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="YqgYN4a39a0H_DcI1buN" version="24.0.4" type="github" pages="3">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,6 +179,36 @@
         </mxCell>
         <mxCell id="aUIz78P-kiw5no-S_cTd-21" value="Формирование одной базы данных с группировкой по оборудованию (equipmentType)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="548" y="742" width="176" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-23" value="Обработка ИТС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="793" y="623" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUIz78P-kiw5no-S_cTd-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="947" y="776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-25" value="ВЭС" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="675" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUIz78P-kiw5no-S_cTd-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="947" y="776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-27" value="..." style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="746" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aUIz78P-kiw5no-S_cTd-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="947" y="776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-29" value="СЭС" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="820" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-31" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Формирование удобной структуры&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="948" y="754.5" width="238" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
