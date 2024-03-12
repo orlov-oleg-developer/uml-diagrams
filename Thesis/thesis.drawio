@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T18:29:42.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="uiyhtXlXiTpPnB2JMV7b" version="24.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-12T18:30:11.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="aZMX2xsIjxsel8qcBBjx" version="24.0.4" type="github" pages="3">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="503" dy="278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="aUIz78P-kiw5no-S_cTd-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Подготовка базы данных&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="382" y="238" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUIz78P-kiw5no-S_cTd-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Подготовка массива расширенных отказов&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="392" y="938" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
