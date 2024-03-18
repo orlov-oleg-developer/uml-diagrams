@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T18:56:08.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="T6UxRCz6jm2Jdzf6qRRU" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-18T18:46:20.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="tnIKvbGnL7obzIT-fPIA" version="24.0.7" type="github" pages="3">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
-    <mxGraphModel dx="2634" dy="-409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="-625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="2049" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,7 +244,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aUIz78P-kiw5no-S_cTd-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;Фильтрация по&lt;/span&gt;&lt;/div&gt;&lt;span data-metadata=&quot;&lt;!--(figmeta)eyJmaWxlS2V5IjoiR2czTmlVSFFSbUNDME85YVZjOGY5YSIsInBhc3RlSUQiOjIwMDA2OTAwNzQsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Несёт ответственность&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;U &amp;gt;= 35 кВ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Идентификатор ТМ !== undefined&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="422" width="238" height="81" as="geometry" />
+          <mxGeometry x="1055" y="413" width="238" height="99" as="geometry" />
         </mxCell>
         <mxCell id="aUIz78P-kiw5no-S_cTd-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Формирование удобной структуры&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1351" y="441" width="238" height="43" as="geometry" />
@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UJHRzUIxwHn8nCPzJdL" name="Экономический расчёт">
-    <mxGraphModel dx="2250" dy="975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3300" dy="1550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
