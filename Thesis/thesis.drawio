@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T02:19:21.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="Z0EDvGPJ9dy8rhxvLOpM" version="24.0.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-20T02:27:18.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="2z-wELFk0BuueNZk-mDX" version="24.0.7" type="github" pages="3">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
-    <mxGraphModel dx="3249" dy="-70" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="-269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,9 +118,6 @@
         <mxCell id="xeJIgtK19_WkKbWEwcIM-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" parent="1" source="dJ0XQElOf2DSTmzW6jDz-4" target="xeJIgtK19_WkKbWEwcIM-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xeJIgtK19_WkKbWEwcIM-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" parent="1" source="dJ0XQElOf2DSTmzW6jDz-4" target="xeJIgtK19_WkKbWEwcIM-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xeJIgtK19_WkKbWEwcIM-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" parent="1" source="dJ0XQElOf2DSTmzW6jDz-4" target="xeJIgtK19_WkKbWEwcIM-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -161,7 +158,7 @@
           <mxGeometry x="-562.5" y="1869" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeJIgtK19_WkKbWEwcIM-10" value="Идентификатор ТМ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-480" y="1773" width="172" height="30" as="geometry" />
+          <mxGeometry x="-480" y="1773" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeJIgtK19_WkKbWEwcIM-11" value="Дата занесения итс в журнал" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-479" y="1821" width="193" height="30" as="geometry" />
@@ -190,11 +187,26 @@
         <mxCell id="xeJIgtK19_WkKbWEwcIM-19" value="year" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-535" y="2118" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xeJIgtK19_WkKbWEwcIM-20" value="lifeTime" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-535" y="2166" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xeJIgtK19_WkKbWEwcIM-21" value="its" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-535" y="2212" width="80" height="30" as="geometry" />
+          <mxGeometry x="-535" y="2165" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdKtAltFLRESJR2SDgjz-1" value="Тип оборудования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-419" y="1954" width="172" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdKtAltFLRESJR2SDgjz-2" value="Идентификатор энергообъекта" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-442" y="1991" width="172" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdKtAltFLRESJR2SDgjz-3" value="Идентификатор ТМ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-442" y="2035" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdKtAltFLRESJR2SDgjz-4" value="Напряжение" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-439" y="2076" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdKtAltFLRESJR2SDgjz-5" value="Дата ввода в эксплуатацию" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-441.5" y="2122" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdKtAltFLRESJR2SDgjz-6" value="ИТС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-441.5" y="2165" width="153" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
