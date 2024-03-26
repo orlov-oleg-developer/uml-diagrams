@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:20:41.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="eMf8jYyyY6vXnJ6sV5cr" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:21:36.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="2t4zxbR7xoRT2DRGDwN2" version="24.0.7" type="github" pages="4">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XshqRxoVSmHRpFX9dPkQ" name="РОУ">
-    <mxGraphModel dx="1195" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,6 +600,12 @@
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-27" value="СУПА (Россети)" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="1785" y="637" width="133" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-28" value="ПК Аварийность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="807" width="133" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-29" value="Информация об аварийности" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="853" width="133" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
