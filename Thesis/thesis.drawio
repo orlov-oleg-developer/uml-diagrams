@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:19:27.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="gxvdFY9ph2kTOF9aIPcL" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:19:49.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="tn0UCrzJsX-f9iP9wRYc" version="24.0.7" type="github" pages="4">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,8 +589,8 @@
         <mxCell id="CMdR5FuDyIuhIcCKduUx-18" value="Последствия отказа" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1272" y="732" width="179" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="CMdR5FuDyIuhIcCKduUx-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;Система управления рисками&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1762" y="580" width="179" height="27" as="geometry" />
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-19" value="&lt;span style=&quot;&quot;&gt;Система управления рисками&lt;/span&gt;&lt;div style=&quot;&quot;&gt;(СУР)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1762" y="574" width="179" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMdR5FuDyIuhIcCKduUx-22" target="CMdR5FuDyIuhIcCKduUx-19">
           <mxGeometry relative="1" as="geometry" />
