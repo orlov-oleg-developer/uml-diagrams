@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:13:00.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="2W6JOYU-Yaxa70Jgk9bb" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:13:58.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="g5_1N-6t5Kb5pBgQ5NNP" version="24.0.7" type="github" pages="4">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XshqRxoVSmHRpFX9dPkQ" name="РОУ">
-    <mxGraphModel dx="989" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,25 +549,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-3" value="ЭКСПЛУАТАЦИЯ" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="472" y="483" width="127" height="27" as="geometry" />
+          <mxGeometry x="476" y="483" width="127" height="27" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMdR5FuDyIuhIcCKduUx-4" target="CMdR5FuDyIuhIcCKduUx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-4" value="ДИАГНОСТИРОВАНИЕ" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="793" y="483" width="179" height="27" as="geometry" />
+          <mxGeometry x="863" y="483" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-8" value="ТОИР и ТПИР" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1325" y="483" width="179" height="27" as="geometry" />
+          <mxGeometry x="1708" y="483" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMdR5FuDyIuhIcCKduUx-10" target="CMdR5FuDyIuhIcCKduUx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-10" value="ИТС" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="483" width="179" height="27" as="geometry" />
+          <mxGeometry x="1272" y="483" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-13" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;определяется согласно Постановлению Правительства от&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;19.12.2016 г. № 1401 и Приказам Минэнерго России от&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;26 июля 2017 г. № 676 и от 17 марта 2020 г. № 192, на&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;основе расчета индекса технического состояния (ИТС)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="972" y="538" width="359" height="72" as="geometry" />
+          <mxGeometry x="1182" y="538" width="359" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-15" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Техническое диагностирование и оценка ТС функциональных узлов ЛЭП осуществляется в электросетевых компаниях по результатам испытаний и измерений&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;в объеме и в соответствии с действующим Стандартом&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;организации «Объем и нормы испытания электрооборудования», введенного Распоряжением ПАО «Россети» от 29.05.2017 № 280р&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="773" y="538" width="359" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
