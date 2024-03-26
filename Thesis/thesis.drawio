@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:21:36.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="2t4zxbR7xoRT2DRGDwN2" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:23:10.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="G_dhqo6l7k6ayAZ4O37l" version="24.0.7" type="github" pages="4">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XshqRxoVSmHRpFX9dPkQ" name="РОУ">
-    <mxGraphModel dx="683" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -558,7 +558,7 @@
           <mxGeometry x="863" y="483" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-8" value="ТОИР и ТПИР" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2103" y="483" width="179" height="27" as="geometry" />
+          <mxGeometry x="2104" y="719" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMdR5FuDyIuhIcCKduUx-10" target="CMdR5FuDyIuhIcCKduUx-19">
           <mxGeometry relative="1" as="geometry">
@@ -589,6 +589,9 @@
         <mxCell id="CMdR5FuDyIuhIcCKduUx-18" value="Последствия отказа" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1272" y="732" width="179" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMdR5FuDyIuhIcCKduUx-19" target="CMdR5FuDyIuhIcCKduUx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-19" value="&lt;span style=&quot;&quot;&gt;Система управления рисками&lt;/span&gt;&lt;div style=&quot;&quot;&gt;(СУР)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1762" y="574" width="179" height="39" as="geometry" />
         </mxCell>
@@ -601,11 +604,22 @@
         <mxCell id="CMdR5FuDyIuhIcCKduUx-27" value="СУПА (Россети)" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="1785" y="637" width="133" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMdR5FuDyIuhIcCKduUx-28" target="CMdR5FuDyIuhIcCKduUx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2022" y="820" />
+              <mxPoint x="2022" y="733" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-28" value="ПК Аварийность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1785" y="807" width="133" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-29" value="Информация об аварийности" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="1785" y="853" width="133" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-33" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Ожидаемый эффект от внедрения СУР связан&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;со снижением средней частоты перерывов электроснабжения в сети (показатель SAIFI) из-за уменьшения количества ТН (отказов) и со снижением&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;продолжительности перерывов электроснабжения&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;потребителей (показатель SAIDI). Это в итоге позволит обеспечить финансовую эффективность ведения производственной деятельности электросетевых&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;компаний (включая процессы ТОиР и ТПиР), но не на&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;основе минимизации совокупной стоимости владения активами и получения максимальной прибыли,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;а на основе уменьшения количества внеплановых,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;аварийно-восстановительных работ и сокращения&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;потребности в аварийном резерве.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2104" y="778" width="457" height="183" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
