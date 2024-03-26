@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:09:09.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="tsbkx22xKWbyr9ZsMapf" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:10:31.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="NHCpgujPr-7yVWk-jLH9" version="24.0.7" type="github" pages="4">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -534,13 +534,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="XshqRxoVSmHRpFX9dPkQ" name="РОП">
+  <diagram id="XshqRxoVSmHRpFX9dPkQ" name="РОУ">
     <mxGraphModel dx="989" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CMdR5FuDyIuhIcCKduUx-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Риск-оринетированный подход&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="382" y="392" width="315" height="30" as="geometry" />
+        <mxCell id="CMdR5FuDyIuhIcCKduUx-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Риск-оринетированное управление&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="365" y="392" width="349" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMdR5FuDyIuhIcCKduUx-2" value="Процесс эксплуатации&lt;br&gt;ЭО регламентирован нормативно-техническими документами&lt;div&gt;(НТД)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="538" width="359" height="57" as="geometry" />
