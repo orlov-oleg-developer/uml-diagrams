@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T18:13:56.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="VGRHnm-mJJF9eB7YmGkj" version="24.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-27T18:15:26.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="afZxEhS9XEjj4A4e6yCX" version="24.2.0" type="github" pages="4">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -634,13 +634,16 @@
           <mxGeometry x="412" y="1026" width="90" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ujbtl_zYNsDY6hYss3pn-4" value="Внезапный" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="563" y="994" width="90" height="27" as="geometry" />
+          <mxGeometry x="563" y="958" width="90" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ujbtl_zYNsDY6hYss3pn-5" value="Износсовый" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1059" width="90" height="27" as="geometry" />
+          <mxGeometry x="563" y="1093" width="90" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ujbtl_zYNsDY6hYss3pn-9" value="&lt;div&gt;Обусловлены недопустимым снижением уровня ИТС&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1104" width="192" height="41" as="geometry" />
+          <mxGeometry x="563" y="1138" width="192" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ujbtl_zYNsDY6hYss3pn-10" value="&lt;div&gt;Оценивается на основе применения экспоненциального закона распределения вероятностней&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="563" y="998" width="330" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
