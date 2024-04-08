@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T18:05:15.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="PwAaUpmfuvWFZ0eLz6YC" version="24.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-08T18:06:00.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="hGxTvdJkP_bqGfFmpOAA" version="24.2.2" type="github" pages="5">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -674,15 +674,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEjTITiPPr2x1rjIln3x" name="Теория">
-    <mxGraphModel dx="419" dy="52" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="52" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="obDbqshbZosBMmaBhYGH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ZkykEQ8aH-KjV22FR3oM-1" target="obDbqshbZosBMmaBhYGH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obDbqshbZosBMmaBhYGH-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="ZkykEQ8aH-KjV22FR3oM-1" target="obDbqshbZosBMmaBhYGH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZkykEQ8aH-KjV22FR3oM-1" value="Событие" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="476" y="483" width="127" height="27" as="geometry" />
         </mxCell>
         <mxCell id="obDbqshbZosBMmaBhYGH-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;Может произойти или не произойти&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="634" y="483" width="227" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="obDbqshbZosBMmaBhYGH-2" value="Достоверное" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="374" y="555" width="127" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="obDbqshbZosBMmaBhYGH-3" value="Невозможное" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="584" y="555" width="127" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
