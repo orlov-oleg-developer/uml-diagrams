@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T18:14:09.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="9iWJJ9DgfxGTw1oxzWAX" version="24.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-08T18:14:41.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="0uCalhfnoS8YUdV3NREp" version="24.2.2" type="github" pages="5">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,6 +749,9 @@
         </mxCell>
         <mxCell id="obDbqshbZosBMmaBhYGH-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;P(A|B)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="738" y="936" width="65" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="obDbqshbZosBMmaBhYGH-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;Условная вероятность&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="936" width="142" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
