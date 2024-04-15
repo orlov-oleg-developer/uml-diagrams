@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T12:12:12.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="VIBgIFiwZW9pw_8pOGJj" version="24.2.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-15T12:19:40.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="1orRxp35JF3c4ug1R2Je" version="24.2.5" type="github" pages="6">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -776,8 +776,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1a9_eDP7aK8X_vitAw-L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1a9_eDP7aK8X_vitAw-L-1" target="1a9_eDP7aK8X_vitAw-L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1a9_eDP7aK8X_vitAw-L-1" value="Нормативка по авариям" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="820" width="149" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="1a9_eDP7aK8X_vitAw-L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1a9_eDP7aK8X_vitAw-L-2" target="1a9_eDP7aK8X_vitAw-L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1a9_eDP7aK8X_vitAw-L-2" value="Как и какие данные об аварии собираются" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="649" y="813" width="149" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="1a9_eDP7aK8X_vitAw-L-3" value="ПК аварийность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="829" y="820" width="149" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
