@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T14:16:42.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="8VlXt2Xr3yk0THrrxY9c" version="24.2.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-16T14:17:41.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="DqB5_780k7sE6b5bqKpq" version="24.2.5" type="github" pages="6">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,7 +772,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="baR8Wroa7OcL6M_A_dID" name="НИР">
-    <mxGraphModel dx="200" dy="-471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="200" dy="-71" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -798,7 +798,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1AeRgcfQ01b5Kiyd5dmn-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;Учет всей информации о параметрах оборудования и его эксплуатации&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="491" y="878.5" width="287" height="43" as="geometry" />
+          <mxGeometry x="564" y="878.5" width="234" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="1AeRgcfQ01b5Kiyd5dmn-5" value="1.1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="786" width="31" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="1AeRgcfQ01b5Kiyd5dmn-6" value="1.1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="714" y="779" width="31" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
