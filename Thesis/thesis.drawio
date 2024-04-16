@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T15:22:57.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="hvVfwYK5Z4upawK-0O0e" version="24.2.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-16T15:23:29.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="WxK9N9kgjWSNq9VyPPG-" version="24.2.5" type="github" pages="6">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -820,6 +820,9 @@
         </mxCell>
         <mxCell id="1AeRgcfQ01b5Kiyd5dmn-13" value="Минэнерго РФ от 04.10.2022 N 1070" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="1022" y="927" width="221" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1AeRgcfQ01b5Kiyd5dmn-15" value="ПАО «Россети» СТО 34.01-24-002-2021" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="959" width="237" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
