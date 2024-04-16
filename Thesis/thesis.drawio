@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T16:47:43.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="wR_DZT3BWr9X9_Fof_HY" version="24.2.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-16T16:49:43.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="nUQA0UZj_hUJmk4eMqy-" version="24.2.5" type="github" pages="6">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,7 +772,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="baR8Wroa7OcL6M_A_dID" name="НИР">
-    <mxGraphModel dx="350" dy="11" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="47" dy="-155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,13 +939,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1AeRgcfQ01b5Kiyd5dmn-60" value="нормативные требования к аварийным отключениям устанавливаются в виде &lt;b&gt;плановых значений показателей средней частоты и продолжительности&lt;/b&gt; прекращения передачи электрической энергии &lt;b&gt;на точку поставки&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="411" y="1370" width="291" height="83" as="geometry" />
+          <mxGeometry x="411" y="1407" width="291" height="83" as="geometry" />
         </mxCell>
         <mxCell id="1AeRgcfQ01b5Kiyd5dmn-61" value="Сравнение фактических значений SAIDI и SAIFI для разных сетей с планом" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="768" y="1370" width="291" height="41" as="geometry" />
+          <mxGeometry x="768" y="1407" width="291" height="41" as="geometry" />
         </mxCell>
         <mxCell id="1AeRgcfQ01b5Kiyd5dmn-62" value="Плановые значения показателей надежности по Московской области установлены распоряжением Комитета по ценам и тарифам Московской области от 20.12.2017 № 326-Р" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1420" width="367" height="56" as="geometry" />
+          <mxGeometry x="730" y="1457" width="367" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1AeRgcfQ01b5Kiyd5dmn-64" value="3.1" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540.5" y="1369" width="31" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
