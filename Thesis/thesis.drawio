@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T15:55:52.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="jBAboR33G7eoaSa9WG0w" version="24.2.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-17T16:13:59.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="uyGMZYgd3997qlQ2WJhP" version="24.2.5" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1019,7 +1019,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UNo4WV2hRCX6lz4YEkUo" name="Отказ">
-    <mxGraphModel dx="500" dy="-126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1027,7 +1027,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-1" value="Отключение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="152" y="785" width="109" height="30" as="geometry" />
+          <mxGeometry x="128" y="1016" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BheUvxQu5KHQVRVtD1l3-3" target="BheUvxQu5KHQVRVtD1l3-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1046,7 +1046,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-3" value="АПВ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345" y="760" width="80" height="80" as="geometry" />
+          <mxGeometry x="321" y="991" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BheUvxQu5KHQVRVtD1l3-5" target="BheUvxQu5KHQVRVtD1l3-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1061,14 +1061,14 @@
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-22" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BheUvxQu5KHQVRVtD1l3-17">
           <mxGeometry x="-0.5811" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="231" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-5" value="Есть резерв?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="670" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-10" value="Восстановлен" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="432" y="849" width="109" height="30" as="geometry" />
+          <mxGeometry x="408" y="1080" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BheUvxQu5KHQVRVtD1l3-14" target="BheUvxQu5KHQVRVtD1l3-18">
           <mxGeometry relative="1" as="geometry" />
@@ -1079,14 +1079,32 @@
         <mxCell id="BheUvxQu5KHQVRVtD1l3-14" value="Подлежит ремонту?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="590" width="95" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BheUvxQu5KHQVRVtD1l3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BheUvxQu5KHQVRVtD1l3-16" target="BheUvxQu5KHQVRVtD1l3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-16" value="Отключен от сети" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="596" y="772" width="110" height="30" as="geometry" />
+          <mxGeometry x="582" y="840" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-18" value="Замена" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="751" y="535" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BheUvxQu5KHQVRVtD1l3-24" value="Ремонт" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="751" y="688" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BheUvxQu5KHQVRVtD1l3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BheUvxQu5KHQVRVtD1l3-28" target="BheUvxQu5KHQVRVtD1l3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BheUvxQu5KHQVRVtD1l3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BheUvxQu5KHQVRVtD1l3-28" target="BheUvxQu5KHQVRVtD1l3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BheUvxQu5KHQVRVtD1l3-28" value="Подлежит ремонту?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="739" y="815" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BheUvxQu5KHQVRVtD1l3-29" value="Замена" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BheUvxQu5KHQVRVtD1l3-30" value="Ремонт" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="913" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
