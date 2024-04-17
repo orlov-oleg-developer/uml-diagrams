@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T15:46:27.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="RNorsepZ5QqCPmObwrhr" version="24.2.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-17T15:46:32.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="1MDtReOOX7HfwUqgCpVU" version="24.2.5" type="github" pages="6">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1013,7 +1013,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UEQRkfS2DT-9CC1PLYf0-17" value="&lt;b&gt;Способы сбора данных&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
-          <mxGeometry x="46" y="879" width="203" height="27" as="geometry" />
+          <mxGeometry x="46" y="891" width="203" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
