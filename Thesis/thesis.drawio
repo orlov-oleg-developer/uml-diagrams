@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T16:17:20.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="5CsVXUURuUF_6DLWCXmh" version="24.2.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-18T16:18:10.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="ppdhHM-kXNLSzsjll4gE" version="24.2.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
-    <mxGraphModel dx="200" dy="-71" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-50" dy="-208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1136,10 +1136,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-9" value="СУПА" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="906" y="827" width="80" height="25" as="geometry" />
+          <mxGeometry x="906" y="826.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8C4i_PDnDFEMO2cCn-hm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8C4i_PDnDFEMO2cCn-hm-11" target="8C4i_PDnDFEMO2cCn-hm-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-11" value="Приоритезированный перечень" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1027" y="825" width="213" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="8C4i_PDnDFEMO2cCn-hm-13" value="Снижение SAIDI и SAIFI" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="826" width="213" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
