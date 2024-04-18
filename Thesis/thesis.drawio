@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T16:33:45.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="pfY59QTKRjRG07sV85aF" version="24.2.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-18T16:34:41.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="u_821Kaxj92S9rp6sikn" version="24.2.5" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
-    <mxGraphModel dx="538" dy="-105" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="636" dy="-52" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -786,6 +786,9 @@
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-31" value="Расчёт вероятности отказа на основе статистики" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="459" y="1023" width="185" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="B3QkrSUgAK_bnaFUQDpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="B3QkrSUgAK_bnaFUQDpC-1" target="B3QkrSUgAK_bnaFUQDpC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B3QkrSUgAK_bnaFUQDpC-1" value="&lt;b&gt;Как рассчитывать вероятность на основе ИТС и статистики&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
           <mxGeometry x="126" y="957" width="236" height="40" as="geometry" />
         </mxCell>
@@ -794,6 +797,18 @@
         </mxCell>
         <mxCell id="B3QkrSUgAK_bnaFUQDpC-2" value="&lt;b&gt;Описываю проблему -&lt;/b&gt;&lt;div&gt;&lt;b&gt;расчет вероятности на основе ИТС&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
           <mxGeometry x="126" y="819.5" width="236" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B3QkrSUgAK_bnaFUQDpC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="B3QkrSUgAK_bnaFUQDpC-4" target="B3QkrSUgAK_bnaFUQDpC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B3QkrSUgAK_bnaFUQDpC-4" value="&lt;b&gt;Обработка статистики + расчёт вероятности&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1140" width="236" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B3QkrSUgAK_bnaFUQDpC-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Глава №3&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1140" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3QkrSUgAK_bnaFUQDpC-7" value="&lt;b&gt;Выводы&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1296" width="78" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
