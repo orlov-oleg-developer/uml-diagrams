@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T16:24:26.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="R66k709WkwF1oWvCf86s" version="24.2.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-18T16:24:45.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="6hX8rVtR49lvUUeSiKjc" version="24.2.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
-    <mxGraphModel dx="475" dy="79" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1215" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1148,7 +1148,7 @@
           <mxGeometry x="1016" y="825" width="213" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-13" value="Снижение SAIDI и SAIFI" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="825" width="166" height="26" as="geometry" />
+          <mxGeometry x="1272" y="802" width="166" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8C4i_PDnDFEMO2cCn-hm-15" target="8C4i_PDnDFEMO2cCn-hm-17">
           <mxGeometry relative="1" as="geometry" />
@@ -1157,19 +1157,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-15" value="Влияющие показатели" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="877" width="162" height="28" as="geometry" />
+          <mxGeometry x="1272" y="854" width="162" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-17" value="ИТС" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1488" y="855.25" width="57" height="28" as="geometry" />
+          <mxGeometry x="1488" y="832.25" width="57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-18" value="&lt;div&gt;Вероятность отказа&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1488" y="898.75" width="126" height="28" as="geometry" />
+          <mxGeometry x="1488" y="875.75" width="126" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-21" value="Приказ Минэнерго № 676" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="855.25" width="158" height="28" as="geometry" />
+          <mxGeometry x="1580" y="832.25" width="158" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-22" value="СТО 34.01-24-002-2021" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="898.75" width="158" height="28" as="geometry" />
+          <mxGeometry x="1630" y="875.75" width="158" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="8C4i_PDnDFEMO2cCn-hm-23" target="8C4i_PDnDFEMO2cCn-hm-24">
           <mxGeometry relative="1" as="geometry" />
@@ -1178,13 +1178,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-23" value="&lt;div&gt;Зависимость интенсивности отказов от времени&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1821" y="870.75" width="297" height="28" as="geometry" />
+          <mxGeometry x="1821" y="847.75" width="297" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-24" value="&lt;div&gt;Влияние износсовых отказов&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2171" y="842.75" width="196" height="28" as="geometry" />
+          <mxGeometry x="2171" y="819.75" width="196" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-25" value="&lt;div&gt;Влияние внезапных отказов&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2171" y="894" width="196" height="28" as="geometry" />
+          <mxGeometry x="2171" y="871" width="196" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
