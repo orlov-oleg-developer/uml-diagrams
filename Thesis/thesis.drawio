@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T07:54:55.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="D_HhL_91mausrcpSZNmB" version="24.2.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-19T12:45:35.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="fwxFqJlM4gUytmoRLyi9" version="24.2.5" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="baR8Wroa7OcL6M_A_dID" name="НИР">
-    <mxGraphModel dx="840" dy="60" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
-    <mxGraphModel dx="1313" dy="319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="26" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -786,6 +786,9 @@
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-30" value="Расчёт вероятности отказа на основе ИТС" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="459" y="957" width="168" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="OgNBwNOwfyvo_gbmiQJW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8C4i_PDnDFEMO2cCn-hm-31" target="OgNBwNOwfyvo_gbmiQJW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8C4i_PDnDFEMO2cCn-hm-31" value="Расчёт вероятности отказа на основе статистики" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="459" y="1023" width="185" height="38" as="geometry" />
         </mxCell>
@@ -815,6 +818,9 @@
         </mxCell>
         <mxCell id="UWY6U_Q4zz2G2bgClgPG-1" value="Не подходит для расчёта ниже 35 кВ" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="1769" y="825.5" width="158" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OgNBwNOwfyvo_gbmiQJW-1" value="Частота, определенная на основе ограниченной выборки наблюдений за период времени Т, называется точечной оценкой" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="708" y="1015" width="269" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1001,7 +1007,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UJHRzUIxwHn8nCPzJdL" name="Экономический расчёт">
-    <mxGraphModel dx="2250" dy="975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3825" dy="1838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
