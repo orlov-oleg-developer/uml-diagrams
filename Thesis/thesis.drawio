@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T16:42:12.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="YKTSbdQNqiYMro2GNBZV" version="24.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-23T16:43:25.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="BJ6r_GjzHMRam223_XAx" version="24.2.7" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="1877" dy="-594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -795,8 +795,8 @@
         <mxCell id="B3QkrSUgAK_bnaFUQDpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="B3QkrSUgAK_bnaFUQDpC-1" target="B3QkrSUgAK_bnaFUQDpC-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B3QkrSUgAK_bnaFUQDpC-1" value="&lt;b&gt;Как рассчитывать вероятность на основе ИТС и статистики&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="126" y="957" width="236" height="40" as="geometry" />
+        <mxCell id="B3QkrSUgAK_bnaFUQDpC-1" value="&lt;b&gt;Как рассчитывать вероятность на основе ИТС и статистики&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;+ откуда берем данные&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
+          <mxGeometry x="126" y="957" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="B3QkrSUgAK_bnaFUQDpC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="B3QkrSUgAK_bnaFUQDpC-2" target="B3QkrSUgAK_bnaFUQDpC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
