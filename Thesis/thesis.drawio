@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T09:32:47.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="sxZzOxjKL4aP-snsZWSh" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-10T09:34:14.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="fBSeftmZvM8URF6OoodQ" version="24.3.1" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -849,8 +849,14 @@
         <mxCell id="0WNJb-yXBqL3eRtK9eSP-3" value="акты расследования =&amp;nbsp;&lt;div&gt;(ПК) «Аварийность»&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="459" y="1161" width="173" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="0WNJb-yXBqL3eRtK9eSP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WNJb-yXBqL3eRtK9eSP-4" target="0WNJb-yXBqL3eRtK9eSP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0WNJb-yXBqL3eRtK9eSP-4" value="параметры оборудования =&lt;div&gt;СУПА&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="673" y="1161" width="173" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="0WNJb-yXBqL3eRtK9eSP-6" value="важны идентификаторы ТМ" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="893" y="1166" width="173" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
