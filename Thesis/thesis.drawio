@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T12:27:53.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="ntUILhjuXLgd3elNxvW1" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-10T09:31:14.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="nw6UYQwHPoHTRisA8hOh" version="24.3.1" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
-    <mxGraphModel dx="398" dy="-180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="259" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -839,6 +839,9 @@
         </mxCell>
         <mxCell id="DMhx6p5QmdRp08R0Fs5a-4" value="&lt;b&gt;Описание данных&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
           <mxGeometry x="126" y="1201" width="236" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0WNJb-yXBqL3eRtK9eSP-2" value="диапазоны параметра потока отказов оборудования на основе анализа отечественных и зарубежных источников" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="459" y="1105" width="350" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
