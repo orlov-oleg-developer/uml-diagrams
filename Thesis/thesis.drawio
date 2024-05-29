@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T14:24:55.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="0j21HU4Xedbur4vGHB-Q" version="24.4.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-29T08:36:26.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="hnNXV8-1UX7LMRqPlDfd" version="24.4.4" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
-    <mxGraphModel dx="1235" dy="276" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="-3" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,11 +864,11 @@
         <mxCell id="wRzhuGUl7C7ylzF3ccYc-2" value="Силовые кабели МКС" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="465" y="1304" width="199" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wRzhuGUl7C7ylzF3ccYc-4" value="Описание октазов" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="909" y="1272" width="199" height="26" as="geometry" />
+        <mxCell id="wRzhuGUl7C7ylzF3ccYc-4" value="Длины по напряжениям и маркам" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
+          <mxGeometry x="909" y="1272" width="214" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wRzhuGUl7C7ylzF3ccYc-6" value="Описание общей протяженности" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="909" y="1336" width="199" height="26" as="geometry" />
+        <mxCell id="wRzhuGUl7C7ylzF3ccYc-6" value="Отключения по напряжениям, маркам и годам" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
+          <mxGeometry x="909" y="1317" width="223" height="38" as="geometry" />
         </mxCell>
         <mxCell id="wRzhuGUl7C7ylzF3ccYc-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="wRzhuGUl7C7ylzF3ccYc-9" target="wRzhuGUl7C7ylzF3ccYc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
