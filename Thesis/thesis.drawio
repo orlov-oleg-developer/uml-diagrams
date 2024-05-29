@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T08:36:26.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="hnNXV8-1UX7LMRqPlDfd" version="24.4.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-29T08:37:34.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="w7qA2a9NWq5pndb-Bu_i" version="24.4.4" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -838,7 +838,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DMhx6p5QmdRp08R0Fs5a-4" value="&lt;b&gt;Описание данных&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="126" y="1298" width="236" height="26" as="geometry" />
+          <mxGeometry x="126" y="1305" width="236" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0WNJb-yXBqL3eRtK9eSP-2" value="диапазоны параметра потока отказов оборудования на основе анализа отечественных и зарубежных источников" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="459" y="1105" width="350" height="38" as="geometry" />
