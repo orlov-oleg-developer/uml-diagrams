@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T13:06:03.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="caLI2bxxGlq2dl8A1eDo" version="24.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-08T13:06:07.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="EnYg-MtTVoRI_EHV3kl0" version="24.5.1" type="github" pages="7">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -814,7 +814,7 @@
           <mxGeometry x="459" y="1238" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B3QkrSUgAK_bnaFUQDpC-7" value="&lt;b&gt;Выводы&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1576" width="78" height="28" as="geometry" />
+          <mxGeometry x="205" y="1722" width="78" height="28" as="geometry" />
         </mxCell>
         <mxCell id="UWY6U_Q4zz2G2bgClgPG-1" value="Не подходит для расчёта ниже 35 кВ" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1769" y="825.5" width="158" height="41.5" as="geometry" />
