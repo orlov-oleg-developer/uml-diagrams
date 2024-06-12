@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T10:36:40.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="0PpOqM1ZCfc7b0BRz0oi" version="24.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:07:00.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="lfat9orzqbYxzjDFOLFs" version="24.5.2" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -952,6 +952,27 @@
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;SAIFI,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;SAIDI,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;CAIDI (&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;Индекс средней продолжительности перерывов в работе клиента&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; background-color: initial; font-size: 16px;&quot;&gt;),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; background-color: initial; font-size: 16px;&quot;&gt;ENS (&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;Индекс неотпущенной энергии&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
           <mxGeometry x="2023" y="646" width="599" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-14" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4E1X3xHufbe1hRuNKknu-1" source="Uq4SPBHY8lpK3KfHzpEr-12" target="Uq4SPBHY8lpK3KfHzpEr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-16" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="4E1X3xHufbe1hRuNKknu-1" source="Uq4SPBHY8lpK3KfHzpEr-12" target="Uq4SPBHY8lpK3KfHzpEr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-18" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="4E1X3xHufbe1hRuNKknu-1" source="Uq4SPBHY8lpK3KfHzpEr-12" target="Uq4SPBHY8lpK3KfHzpEr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-12" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Описание отказа&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
+          <mxGeometry x="2666" y="675" width="163" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-13" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Failure mode&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
+          <mxGeometry x="2912" y="628" width="163" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-15" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Failure location&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
+          <mxGeometry x="2912" y="675" width="163" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-17" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Failure cause&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
+          <mxGeometry x="2912" y="727" width="163" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
