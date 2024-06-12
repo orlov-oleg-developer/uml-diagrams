@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:25:36.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="_OfnT7Tx2RlLZO42HvCz" version="24.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:26:02.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="ue1FGnVcH_o_sWcTISd1" version="24.5.2" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,7 +916,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Моя статья №2" id="chXWHApgFHXn40y51wDN">
-    <mxGraphModel dx="2049" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4E1X3xHufbe1hRuNKknu-0" />
         <mxCell id="4E1X3xHufbe1hRuNKknu-1" parent="4E1X3xHufbe1hRuNKknu-0" />
@@ -948,7 +948,7 @@
           <mxGeometry x="1525" y="646" width="432" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-9" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Характеристика выборки&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
-          <mxGeometry x="2650" y="396" width="2361" height="32" as="geometry" />
+          <mxGeometry x="2650" y="396" width="2387" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;SAIFI,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;SAIDI,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;CAIDI (&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;Индекс средней продолжительности перерывов в работе клиента&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; background-color: initial; font-size: 16px;&quot;&gt;),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; background-color: initial; font-size: 16px;&quot;&gt;ENS (&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;Индекс неотпущенной энергии&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
           <mxGeometry x="2023" y="646" width="599" height="90" as="geometry" />
@@ -1042,6 +1042,9 @@
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-43" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;DM Sans, sans-serif&quot; color=&quot;#1b1642&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Следовательно, интенсивность отказов представляет собой функцию, которая зависит от текущего напряжения, окружающей среды, а также текущего состояния, которое, однако, является функцией статических и динамических факторов прошлого.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
           <mxGeometry x="4467" y="632.5" width="572" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq4SPBHY8lpK3KfHzpEr-44" value="&lt;span style=&quot;box-sizing: border-box; color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: 16px; text-align: left;&quot;&gt;Характеристика индивидуального элемента&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
+          <mxGeometry x="5062" y="396" width="2361" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
