@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T10:09:00.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="_YWKv5t8kcItdtIJeUgP" version="24.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-12T10:09:35.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="pTY_pzgPzk6sDSWDcaOW" version="24.5.2" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -703,7 +703,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья">
+  <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
     <mxGraphModel dx="2049" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -910,6 +910,17 @@
           <mxGeometry x="465" y="1438" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L-oYQXP_edBTa4yXO_cf-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Статья №1&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="128" y="664" width="87" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Моя статья №2" id="chXWHApgFHXn40y51wDN">
+    <mxGraphModel dx="4097" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="4E1X3xHufbe1hRuNKknu-0" />
+        <mxCell id="4E1X3xHufbe1hRuNKknu-1" parent="4E1X3xHufbe1hRuNKknu-0" />
+        <mxCell id="4E1X3xHufbe1hRuNKknu-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Статья №2&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="4E1X3xHufbe1hRuNKknu-1">
           <mxGeometry x="128" y="664" width="87" height="30" as="geometry" />
         </mxCell>
       </root>
