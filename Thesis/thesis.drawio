@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T12:22:02.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="plPrCGIKgxsGSEJidoMU" version="24.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-15T12:22:15.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="Wfsj04jURCPAxs1BnTtx" version="24.5.3" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,12 +916,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Моя статья №2" id="chXWHApgFHXn40y51wDN">
-    <mxGraphModel dx="2607" dy="1438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4E1X3xHufbe1hRuNKknu-0" />
         <mxCell id="4E1X3xHufbe1hRuNKknu-1" parent="4E1X3xHufbe1hRuNKknu-0" />
         <mxCell id="4E1X3xHufbe1hRuNKknu-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Статья №2&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="4E1X3xHufbe1hRuNKknu-1" vertex="1">
-          <mxGeometry x="128" y="664" width="87" height="30" as="geometry" />
+          <mxGeometry x="155" y="629" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-2" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="4E1X3xHufbe1hRuNKknu-1" source="Uq4SPBHY8lpK3KfHzpEr-0" target="Uq4SPBHY8lpK3KfHzpEr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -930,7 +930,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-0" value="&lt;span style=&quot;color: rgb(27, 22, 66); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Подходы к расчету вероятности отказа оборудования на основе статистики и с учетом его индекса технического состояния&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="4E1X3xHufbe1hRuNKknu-1" vertex="1">
-          <mxGeometry x="135" y="727" width="337" height="73" as="geometry" />
+          <mxGeometry x="155" y="759" width="337" height="73" as="geometry" />
         </mxCell>
         <mxCell id="Uq4SPBHY8lpK3KfHzpEr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="4E1X3xHufbe1hRuNKknu-1" source="Uq4SPBHY8lpK3KfHzpEr-1" target="Uq4SPBHY8lpK3KfHzpEr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
