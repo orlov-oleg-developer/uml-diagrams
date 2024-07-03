@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T16:01:19.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="NBy08dk6TEDyyigWrGrA" version="24.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-03T16:01:57.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="3WortjuplwAtl966UYHf" version="24.6.3" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="717" dy="-4" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -924,7 +924,7 @@
         <mxCell id="IZlPQusKu3A_UVyLLUth-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-3" target="IZlPQusKu3A_UVyLLUth-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZlPQusKu3A_UVyLLUth-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-3" target="IZlPQusKu3A_UVyLLUth-8">
+        <mxCell id="IZlPQusKu3A_UVyLLUth-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-3" target="IZlPQusKu3A_UVyLLUth-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-3" target="IZlPQusKu3A_UVyLLUth-10">
@@ -946,25 +946,25 @@
           <mxGeometry x="3029" y="738" width="454" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-6" value="Приложение с формами заполнения" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3656" y="660" width="155" height="38" as="geometry" />
+          <mxGeometry x="3596" y="598" width="155" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-8" value="Порядок заполнения" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3652" y="719" width="155" height="26" as="geometry" />
+          <mxGeometry x="3592" y="657" width="155" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-10" value="Список наименований субъектов Российской Федерации" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3652" y="757" width="195" height="41" as="geometry" />
+          <mxGeometry x="3592" y="695" width="195" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-12" value="Содержание учетного признака аварии + их коды" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3652" y="810.5" width="195" height="41" as="geometry" />
+          <mxGeometry x="3592" y="748.5" width="195" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-14" value="Классификация видов оборудования и устройств + их коды" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3652" y="867" width="228" height="41" as="geometry" />
+          <mxGeometry x="3592" y="805" width="228" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-16" value="Классификация орг. и тех. причин + их коды" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3652" y="922" width="228" height="41" as="geometry" />
+          <mxGeometry x="3592" y="860" width="228" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-18" value="Классификация оборудования объектов электроэнергетики и узлов такого оборудования" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3652" y="974" width="285" height="41" as="geometry" />
+          <mxGeometry x="3592" y="912" width="285" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
