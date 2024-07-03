@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T16:27:40.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="o7xqG7mSOpvuRw_3uoay" version="24.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-03T16:28:10.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="YDePU3vA-8idHOvaIsc0" version="24.6.3" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="1247" dy="288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="79" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -993,8 +993,8 @@
         <mxCell id="IZlPQusKu3A_UVyLLUth-26" value="Порядок заполнения" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="3589" y="1102" width="155" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="IZlPQusKu3A_UVyLLUth-29" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Допускается не указывать техническую причину аварии, если код организационной причины (Таблица 1. Классификационные признаки организационных причин - приложение 4 к настоящему распоряжению) соответствует номерам кодов 3.4.1 – 3.4.6 (и входящих в них подкодов), 3.4.8 – 3.4.11 (и входящих в них подкодов), 3.4.13.1, 3.4.13.2, 3.4.14&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3792" y="1080.75" width="485" height="68.5" as="geometry" />
+        <mxCell id="IZlPQusKu3A_UVyLLUth-29" value="&lt;span style=&quot;font-size: 11px; text-align: left;&quot;&gt;Допускается не указывать техническую причину аварии, если код организационной причины соответствует номерам кодов 3.4.1 – 3.4.6 (и входящих в них подкодов), 3.4.8 – 3.4.11 (и входящих в них подкодов), 3.4.13.1, 3.4.13.2, 3.4.14&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3787" y="1085.87" width="485" height="58.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
