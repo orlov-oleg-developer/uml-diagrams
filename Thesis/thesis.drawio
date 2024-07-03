@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T16:35:48.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="kUZDgPSryR83Rxr04d1W" version="24.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-03T17:11:46.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="RvLjAJLCwoCRYD8LV5bc" version="24.6.3" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="869" dy="79" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -981,6 +981,21 @@
         <mxCell id="IZlPQusKu3A_UVyLLUth-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-20" target="IZlPQusKu3A_UVyLLUth-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-20" target="IZlPQusKu3A_UVyLLUth-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-20" target="IZlPQusKu3A_UVyLLUth-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-20" target="IZlPQusKu3A_UVyLLUth-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-40" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-20" target="IZlPQusKu3A_UVyLLUth-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-20" target="IZlPQusKu3A_UVyLLUth-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Распоряжение № 66р/105р&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="3152" y="1021" width="208" height="27" as="geometry" />
         </mxCell>
@@ -1000,7 +1015,22 @@
           <mxGeometry x="3787" y="1085.87" width="485" height="58.25" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-31" value="Методические указания по расчету количества недоотпущенной электроэнергии" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3589" y="1168" width="266" height="41" as="geometry" />
+          <mxGeometry x="3589" y="1158" width="266" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-33" value="Методические указания по расчету экономического ущерба от технологического нарушения (аварии)" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3589" y="1210" width="313" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-35" value="Расширенный список учетных признаков аварии + их коды" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3589" y="1268" width="195" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-37" value="Классификация видов оборудования и устройств + их коды" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3589" y="1320" width="228" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-39" value="Классификация орг. и тех. причин + их коды" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3589" y="1378" width="228" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IZlPQusKu3A_UVyLLUth-41" value="Классификация оборудования объектов электроэнергетики и узлов такого оборудования" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3589" y="1436" width="285" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
