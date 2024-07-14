@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T18:26:41.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="MKvzylCgFtSUI4aPUmh-" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-14T18:27:00.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="8D9K5Di3FSpaoLvxbGRj" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEjTITiPPr2x1rjIln3x" name="Теория">
-    <mxGraphModel dx="1195" dy="259" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1636,6 +1636,9 @@
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Поскольку для электроэнергетического оборудования наработка на отказ значительно больше времени восстановления, MTTF &amp;gt;&amp;gt; Tв. Поэтому в задачах анализа надежности электроэнергетического оборудования такие понятия как интенсивность отказов, частота отказов и параметр потока отказов используются как синонимы&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1182" y="1674" width="498" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-48" value="Показатели свойства готовности" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="426" y="1814" width="225" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
