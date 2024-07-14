@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T18:07:10.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="V0r9sqNgYwbgIqNvyzMP" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-14T18:10:17.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="NABfvxyLZXowakl7GzS8" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEjTITiPPr2x1rjIln3x" name="Теория">
-    <mxGraphModel dx="4097" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="259" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1498,6 +1498,45 @@
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-25" value="Ремонт" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="872" y="3225" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-1" target="-PXTnavegatwk1_vPucJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-1" target="-PXTnavegatwk1_vPucJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-1" target="-PXTnavegatwk1_vPucJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-1" target="-PXTnavegatwk1_vPucJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-1" target="-PXTnavegatwk1_vPucJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-1" value="Свойства надежности" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1218" width="149" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="1175" as="sourcePoint" />
+            <mxPoint x="1035" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-3" value="Надежность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="251" y="1309" width="91" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-6" value="Безотказность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1309" width="95" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-8" value="Долговечность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="491" y="1309" width="95" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-10" value="Ремонтопригодность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1309" width="135" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-12" value="Готовность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1309" width="88" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
