@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T16:15:03.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="apNGpxAZCKYcTI-B77ZA" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-14T18:07:10.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="V0r9sqNgYwbgIqNvyzMP" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEjTITiPPr2x1rjIln3x" name="Теория">
-    <mxGraphModel dx="1434" dy="391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1420,7 +1420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-2" value="Отключение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="149" y="1802" width="109" height="30" as="geometry" />
+          <mxGeometry x="140" y="3328" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6yVEBbsgUGYoOvxxbQ_4-7" target="6yVEBbsgUGYoOvxxbQ_4-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1439,7 +1439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-7" value="АПВ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="342" y="1777" width="80" height="80" as="geometry" />
+          <mxGeometry x="333" y="3303" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6yVEBbsgUGYoOvxxbQ_4-12" target="6yVEBbsgUGYoOvxxbQ_4-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1458,10 +1458,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-12" value="Есть резерв?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="511" y="1456" width="95" height="80" as="geometry" />
+          <mxGeometry x="502" y="2982" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-13" value="Восстановлен" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="429" y="1866" width="109" height="30" as="geometry" />
+          <mxGeometry x="420" y="3392" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6yVEBbsgUGYoOvxxbQ_4-16" target="6yVEBbsgUGYoOvxxbQ_4-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1470,19 +1470,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-16" value="Подлежит ремонту?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="651" y="1376" width="95" height="80" as="geometry" />
+          <mxGeometry x="642" y="2902" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6yVEBbsgUGYoOvxxbQ_4-18" target="6yVEBbsgUGYoOvxxbQ_4-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-18" value="Отключен от сети" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="603" y="1626" width="110" height="30" as="geometry" />
+          <mxGeometry x="594" y="3152" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-19" value="Замена" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="772" y="1321" width="110" height="30" as="geometry" />
+          <mxGeometry x="763" y="2847" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-20" value="Ремонт" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="772" y="1474" width="110" height="30" as="geometry" />
+          <mxGeometry x="763" y="3000" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6yVEBbsgUGYoOvxxbQ_4-23" target="6yVEBbsgUGYoOvxxbQ_4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1491,13 +1491,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-23" value="Подлежит ремонту?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1601" width="95" height="80" as="geometry" />
+          <mxGeometry x="751" y="3127" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-24" value="Замена" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="881" y="1546" width="110" height="30" as="geometry" />
+          <mxGeometry x="872" y="3072" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6yVEBbsgUGYoOvxxbQ_4-25" value="Ремонт" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="881" y="1699" width="110" height="30" as="geometry" />
+          <mxGeometry x="872" y="3225" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
