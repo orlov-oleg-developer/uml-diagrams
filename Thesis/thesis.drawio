@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T18:16:55.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="CWyltqLk2MwV_nrIg7Tx" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-14T18:17:47.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="f5tvbE-1MdhLeKUkIYqc" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1559,20 +1559,32 @@
         <mxCell id="-PXTnavegatwk1_vPucJ-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-18" target="-PXTnavegatwk1_vPucJ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-18" target="-PXTnavegatwk1_vPucJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-PXTnavegatwk1_vPucJ-18" target="-PXTnavegatwk1_vPucJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-18" value="Показатели свойства ремонтопригодности" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="405" y="1460" width="269" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-19" value="Время восстановления" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190.5" y="1552" width="146" height="27" as="geometry" />
+          <mxGeometry x="79" y="1535" width="146" height="27" as="geometry" />
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-21" value="Среднее время восстановления&lt;div&gt;Тв&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="343.5" y="1552" width="201" height="40" as="geometry" />
+          <mxGeometry x="232" y="1535" width="201" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-23" value="Продолжительность ремонтов&lt;div&gt;Тр&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1552" width="201" height="40" as="geometry" />
+          <mxGeometry x="438.5" y="1535" width="201" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-25" value="Интенсивность восстановления&lt;div&gt;μ&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="766" y="1552" width="201" height="42" as="geometry" />
+          <mxGeometry x="654.5" y="1535" width="201" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-27" value="&lt;div&gt;Вероятность восстановления&lt;br&gt;&lt;/div&gt;&lt;div&gt;M(t)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="1534" width="201" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-PXTnavegatwk1_vPucJ-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAgCAYAAADKbvy8AAAE80lEQVRoBe1ZvYvjRhSff0O1WnfutlLlxrWbLVSo2eKKgxQCFYYtAikGBIGrFgRHIBAIAy7DgbgmjUFFSCDGnVmMmi0W42IxRvzCfNn6lnZXcvCdtllrPPO+fu/93huZYPi76giQq7Z+MB4DgFeeBAOAA4BXHoErN3+owAHAK4/AlZs/VOAA4JVH4P8yfxfCnQZYJ0CyDjCZ8M8HxMtPcLwQu5Z2XbACuXEB/MUGScG4J4T0AdG++E1h6zexkGAXzjENVkjwgnVwi0nwL55DDwYhIIaHcNcuFg0A7hFRC4QLJQSGW5UZB2zZB6lc7TVphOMp2Dusgjnm4VaBxx3w4Ud7tYM//wQvfDqd6PTDMQI1pQ+EjOH2pUcZfYwoTBUHHTtC7sBiHZEnhO4dgvULkKwQTG6Ln1sGoAFALuWImN1JEEWZFyUnWwbHUCA7DNtM8nDwPsIJ/oGGSxg9nWezLEUpRQ1drPBMn70qu7vQWiqD+zqiiI5p+sx+Lj1XstgCQJ4tYwmgKZVm5CQbMOcGlsX35LNbVWYa+CTG0rdhpNe4QFElM5mJGQUdPYhMN0BshrgjkW8Tw9nGk/7vVmDuBKZL8cD+xiqYIctczRqaAeSBHbugP3IqTdMAFy4BMp2f8fDDOJfdCfaRD4tMQaNnYUm6UiW1WKCaRgWA+QRodqD1jpjBJgYmou+0PtW4MYkjMGqr9mHA8r4gzjBQXoQuiBFs+hsC9wbE8hHtN2D2CDcTiq8t+x+X3Aggn5Cm7h9YCRpNBRyAAMT8APb4F4KJAZKuKp3x6TWuUQSyBCgBYPcBluFTWU+6rPAE+9Vn2IYBy2VY71/UHFCvQ8azapbIg9383AAg738fYbONLPs0RQrqtOCwDY58DM5ktw5YHii9XuIk7wsGKVKIAFYPIFX/88yQd1xlfVkLyG9t+7xfgloGjFPPb9Nj+VA463SIagDwPC2Ju8oJJE2dfGDRoKTBUgErjMNqqs1XJa9mkQQmbPbYNoTt96kkqJ6i24uSOxVYqYqW7cGARZfnYe21Yt+wvx5A7vhYDS6C+mSFHPjUyalzewBQApaqpgylcuMUrRYDqQOSToI3eFNxRCZHhey3VLj2z2bYxhEWgQuLjGD7fzb0vwoD37FcC2CGr7Wjt/egjqRO0atLel22WlPWCcfLqqwkCfQxrbdwr0rTaR2F6uSo26OVtfsv/VP6DRv09wXCddt3J+10tN1VAyCnRv22gIt7BLNNeaE/8b6mvuzwIS+y+YzXVFvd/4qV2daNun3K7hLarjtV950GMDvy86HmV9BFDy2gxphqAEWTnpzH/BNVaurklMjvgCMQkptORT/LrkG8MpqBmBTLzQKer3uFrpASYGsMb/fVAXF4D4uUDEftBJTv0qxj3SOMeRvZYc08WJYHduFKLAEw+/qMnAYXHmhHTJ1J+u1MitpOFST6ZR4QBZRhwabhuVeIRDG7b/5l1NvZJT7Bfs3gWoZ8wSFo9CvWvb7LVS9FxJ3xfNEsAbA86V61KjI0Xb1Vp9PTbNWeYV1G4JIACrq8a7jvyIuw43zGqtfM/bYToJ8K5DHbhfBqftdK4i+Yu78M4L0zv/oDEM+I/E/ZXxyUsUkcwvdTffCdTnzPx3sE8HsO6+V8HwC8XKx70TQA2EtYLyd0APByse5F0wBgL2G9nNABwMvFuhdN/wFEfTnJbtBp0wAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="1539.5" width="112" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
