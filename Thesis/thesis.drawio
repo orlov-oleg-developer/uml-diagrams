@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T15:29:39.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="uQ3sTKUA92SRxrMemWVl" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-14T15:59:26.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="QWFs9M1UZLp1yXSW5PRm" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,7 +340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="baR8Wroa7OcL6M_A_dID" name="НИР">
-    <mxGraphModel dx="463" dy="-145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="717" dy="-4" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,7 +995,7 @@
         <mxCell id="IZlPQusKu3A_UVyLLUth-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Распоряжение № 66р/105р&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="3152" y="1217" width="208" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="gGauquFsLCSPf5Wokt5c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZlPQusKu3A_UVyLLUth-22" target="gGauquFsLCSPf5Wokt5c-1">
+        <mxCell id="gGauquFsLCSPf5Wokt5c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZlPQusKu3A_UVyLLUth-22" target="gGauquFsLCSPf5Wokt5c-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IZlPQusKu3A_UVyLLUth-22" value="Расширяет СТО.34.01-34..." style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
@@ -1031,8 +1031,17 @@
         <mxCell id="IZlPQusKu3A_UVyLLUth-41" value="Классификация оборудования объектов электроэнергетики и узлов такого оборудования" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="3589" y="1436" width="285" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="gGauquFsLCSPf5Wokt5c-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Порядок расследования и учета технологических нарушений (аварий) в электросетевом комплексе&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="gGauquFsLCSPf5Wokt5c-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Порядок расследования и учета технологических нарушений (аварий) в электросетевом комплексе&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="3918" y="997.37" width="390" height="39.63" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyuR6WOZ4nNuuUjKhI4-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="nZyuR6WOZ4nNuuUjKhI4-1" target="nZyuR6WOZ4nNuuUjKhI4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyuR6WOZ4nNuuUjKhI4-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Приказ Министерства энергетики РФ от 29 ноября 2016 г. N 1256&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3133.5" y="1634" width="245" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="nZyuR6WOZ4nNuuUjKhI4-2" value="формула расчёта&amp;nbsp;Показатель средней продолжительности прекращений передачи электрической энергии" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3487" y="1578" width="629" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
