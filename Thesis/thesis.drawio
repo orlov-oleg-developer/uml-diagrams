@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T03:18:51.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="E8LjqRgwakgDNjOyiMaY" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-17T03:20:16.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="hxG3ZXVDsxlW7UFAPlVa" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1672,8 +1672,19 @@
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-2" value="&lt;div style=&quot;&quot;&gt;полностью характеризует случайную величину ξ с вероятностной точки зрения&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="626" y="1187" width="247" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-3" value="Функция распределения&lt;br&gt;случайной величины F(x)" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1272" width="149" height="40" as="geometry" />
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="c2d0HcFdsJ8dF8w4lv7b-3" target="c2d0HcFdsJ8dF8w4lv7b-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-9" value="Первая производная" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="c2d0HcFdsJ8dF8w4lv7b-8">
+          <mxGeometry x="-0.2662" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-3" value="Функция распределения случайной величины F(x)" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1272" width="331" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-7" value="Функция плотности распределения случайной величины f(x) = F′(x)" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1345" width="331" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
