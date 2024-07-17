@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T03:17:19.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="fd0UaxHxUovlBCTlif2D" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-17T03:18:27.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="Sx-G-6ve3Kz6Vrp4NPWL" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1658,11 +1658,22 @@
         <mxCell id="-PXTnavegatwk1_vPucJ-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAyCAYAAABfy/UOAAAEJklEQVR4Ae1av2vbQBi9f0NzVm/+BzR56dIlSwYNXjpkKHQQeMvQTeApU0HgpVAoB1m6BESXLAbtRlsoRlAyFKEhGCNe0c87yzr9CI51hy9gJPnk07v37vu+d6cQ6D/pGSDSI9QAoUVSYBJokbRICjCgAEQdSVokBRhQAKKOJC2SAgwoAFFHkhZJAQYUgKgjSYukAAMKQNSRpEVSgAEFIOpI0iLJwsAOof8LlFL8dCwYxMDM3SCRBV4HjguIpBd49hSEEO5jwvHjDmrkab4AkUqyXxG417lQxgJepEoc4ZJe+rGIMmwPUamdAsfLiaS9D+cqTXlT2N6LAtIwiBcjUhK4mGV16RNouGcMKHA2XKQ4gEcpKP0Ox5ogTx0RAu9Hdp0X6Ams5RNCadI+V49mLoIxcaX8uTbMwsgY1j3W4Q5J6IM6n7FoiPJBIu19B1cHLmkKm/4GXSzgPAaIkSDerGAZaVoxYDprSOGhkg3cmZFhGs967xCu73NuTBsrP0SCHULvDrMbCzcZZ9dwg9ej2B4kUv7rBJG3gJGJNYU5u4W74ctwDN8xcxd15cBvyywhhXUgOm+T286HpSyW6ppJOGLl5F/kYmTRY97BC3fsCdUEIiCCKH+DSFzqIBPM6XNtUci1d4nEoL7jGTepRsGTIPaXeXozbkG3nEDZqP+AWletUf4GkTgrO6fYHuV31k5GIaWuN8MzivWO13DMNNU2TWgAkQc7S3Vi1zlcpK5OufAdhZS6Rl14D+7fI6SfuJ2JtpRba7MowoO+0osdtvQ2Lw3mEn5cn9FclLcssAeK1NUpF9rkAxz/3xHs837Rhfed0VQTVrBXWLWTwiU34xkoEqs3jVGSPIPOJ9lMNBpTYQ3EuxsHhpc0zvQanlNfVuNrSmURNu68MGACEQs8w0SqlG96KBdFdQdz6sH37a/C205C3+6G3seWLHW+IgT0K75YHwuR2l3nIJHEVpZbHxnzmiUfOrRT3c9NGtJOwqmeeNRPFUkEhrXCJk6KRescs8UDvG/Fhq/Aepf9DRCJy+9kBnu1LnYUIgSPy2KRtgAN+DVT+ZhzHxPEAYWduaq0wI9UH7n0z16VGDBtiiD+W71CaSwdHGUDRGJWlj2wcDimDffBl2AbiJ9INfeVLppbHBTHyUlPk/AJSyuv08Swip2Zfta7BNJfpEFWtuxeH0UMVKWjx8TpLdKQTkXA9PclA5zr7KhH6S96isQ67cqfJQx9bGOgLB39XGc/kUa2sm3DVbEt2VLMW3a962PqIRK/6BLsP9V71ddCBg6MRE/X2SoSW4zVnZJa/20jZOycDdyaqe6Ou0pIq0jnHIN+lpgBLZKYG2latEjSSCEGokUScyNNixZJGinEQLRIYm6kadEiSSOFGIgWScyNNC1aJGmkEAPRIom5kablPxET4BUhPhGAAAAAAElFTkSuQmCC;" parent="1" vertex="1">
           <mxGeometry x="1885.997435897436" y="1211.003846153846" width="105" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="c2d0HcFdsJ8dF8w4lv7b-1" target="c2d0HcFdsJ8dF8w4lv7b-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-6" value="Способ задания закона" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="c2d0HcFdsJ8dF8w4lv7b-5">
+          <mxGeometry x="0.3143" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-1" value="Закон распределения&lt;br&gt;случайной величины" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="1187" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-2" value="&lt;div style=&quot;&quot;&gt;полностью характеризует случайную величину ξ с вероятностной точки зрения&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="626" y="1187" width="247" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-3" value="Функция распределения&lt;br&gt;случайной величины" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1272" width="149" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
