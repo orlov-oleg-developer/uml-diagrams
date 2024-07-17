@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T10:50:34.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="O8sFL8APfvG-r-mHHxrt" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-17T10:51:25.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="zeZhyh8RRqmWbItNbmgp" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEjTITiPPr2x1rjIln3x" name="Теория">
-    <mxGraphModel dx="2449" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4497" dy="1860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1713,35 +1713,41 @@
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c2d0HcFdsJ8dF8w4lv7b-11" target="c2d0HcFdsJ8dF8w4lv7b-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c2d0HcFdsJ8dF8w4lv7b-11" target="c2d0HcFdsJ8dF8w4lv7b-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-11" value="Распределения случайных величин" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="425" y="1445" width="229" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-12" value="Биноминльное распределение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-204" y="1523" width="201" height="28" as="geometry" />
+          <mxGeometry x="-398" y="1523" width="201" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-14" value="&lt;div style=&quot;&quot;&gt;для дискретной случ. величины&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-201" y="1557" width="195" height="28" as="geometry" />
+          <mxGeometry x="-395" y="1557" width="195" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-15" value="Геометрическое распределение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1523" width="201" height="28" as="geometry" />
+          <mxGeometry x="-180" y="1523" width="201" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-17" value="Распределение Пуассона" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="223" y="1523" width="201" height="28" as="geometry" />
+          <mxGeometry x="29" y="1523" width="201" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-19" value="Экспоненциальное распределение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="435" y="1523" width="212" height="28" as="geometry" />
+          <mxGeometry x="241" y="1523" width="212" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-21" value="Гамма-распределение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="663" y="1523" width="143" height="28" as="geometry" />
+          <mxGeometry x="469" y="1523" width="143" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-23" value="Распределение Вейбулла" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="818" y="1523" width="161" height="28" as="geometry" />
+          <mxGeometry x="624" y="1523" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-25" value="Равномерный закон распределения" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="991" y="1523" width="222" height="28" as="geometry" />
+          <mxGeometry x="797" y="1523" width="222" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-27" value="Нормальное (гауссовское) распределение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1523" width="253" height="28" as="geometry" />
+          <mxGeometry x="1036" y="1523" width="253" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-29" value="Распределение χ2" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1309" y="1520" width="128" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
