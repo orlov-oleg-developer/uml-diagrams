@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T03:20:59.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="ePBLq0nbmIdkpraDRtfn" version="24.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-17T10:41:26.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="e5ezcEe4RczaZ7FtmEb8" version="24.6.5" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,7 +1322,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WEjTITiPPr2x1rjIln3x" name="Теория">
-    <mxGraphModel dx="819" dy="52" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1519,8 +1519,8 @@
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="102" y="1501" as="sourcePoint" />
-            <mxPoint x="1035" y="1496" as="targetPoint" />
+            <mxPoint x="119" y="1424" as="sourcePoint" />
+            <mxPoint x="1052" y="1419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-PXTnavegatwk1_vPucJ-3" value="Надежность" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
@@ -1688,6 +1688,9 @@
         </mxCell>
         <mxCell id="c2d0HcFdsJ8dF8w4lv7b-10" value="&lt;div style=&quot;&quot;&gt;она указывает как часто возможные значения непрерывной случайной величины ξ группируются в окрестности точки x.&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="719" y="1345" width="353" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c2d0HcFdsJ8dF8w4lv7b-11" value="Распределения случайных величин" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1445" width="229" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
