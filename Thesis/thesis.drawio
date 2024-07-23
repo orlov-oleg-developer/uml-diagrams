@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T03:56:22.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="1S0OE_51dFhs6FKM6bpN" version="24.7.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-07-23T03:56:36.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="_N6osihXSqD0k9kQieP-" version="24.7.1" type="github" pages="10">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3275" dy="79" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3900" dy="421" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1671,6 +1671,9 @@
         </mxCell>
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Выбросы&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;align=center;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-1812.5" y="1559" width="94" height="29.07" as="geometry" />
+        </mxCell>
+        <mxCell id="_ozsHwEbKT_WzGx7X_Zk-34" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Выбросы&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;align=center;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-1116" y="1556.93" width="94" height="29.07" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
