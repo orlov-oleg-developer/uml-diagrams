@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T03:48:02.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="96rn8T69SUaCkgvc8_86" version="24.7.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-07-23T03:48:15.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="_NL9iX9f2bGF012ZvH4f" version="24.7.1" type="github" pages="10">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3400" dy="148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4015" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1640,7 +1640,7 @@
           <mxGeometry x="-1289.5" y="1269" width="80.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-16" value="Разность &lt;b&gt;Q3−Q1&lt;/b&gt; называется межквартильным размахом ( &lt;b&gt;IQR&lt;/b&gt; — англ. Interquartile Range)." style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1734" y="1328" width="594" height="28" as="geometry" />
+          <mxGeometry x="-1702" y="1338" width="530" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
