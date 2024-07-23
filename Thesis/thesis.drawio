@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T03:29:55.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="wAR8Qn9ezM_fFFYHoIjJ" version="24.7.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-07-23T03:30:25.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="igxSDyVifEgJDPrDz5-L" version="24.7.1" type="github" pages="8">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1799,6 +1799,9 @@
         </mxCell>
         <mxCell id="NSpIMjazIaHoqIuevqC9-19" value="наблюдение, которое делит весь набор данных на две равные части: меньше него 50 % наблюдений и больше него тоже 50 % наблюдений." style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1398" y="787" width="341" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NSpIMjazIaHoqIuevqC9-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pictures.s3.yandex.net/resources/Mediana_Kak_vybrat_meru_tsentralnoi_tendentsii_1696158323.png;" vertex="1" parent="1">
+          <mxGeometry x="-1596.81" y="955" width="292.62" height="129" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
