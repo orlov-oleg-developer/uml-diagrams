@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T03:41:38.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="Dpp8fnF0WrN3GkWyl-mA" version="24.7.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-07-23T03:43:38.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="1btYtfVIPQvzxMg4Rtqx" version="24.7.1" type="github" pages="10">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3313" dy="100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3450" dy="175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1601,7 +1601,7 @@
           <mxGeometry x="-1596.81" y="955" width="292.62" height="129" as="geometry" />
         </mxCell>
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-2" value="Число X является α-&lt;b&gt;квантилем &lt;/b&gt;набора данных, если оно делит этот набор данных таким образом, что α% наблюдений меньше или равны X и (100−α)% наблюдений больше или равны X." style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-2021" y="1301" width="561" height="40" as="geometry" />
+          <mxGeometry x="-2147.5" y="1269" width="561" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="_ozsHwEbKT_WzGx7X_Zk-3" target="_ozsHwEbKT_WzGx7X_Zk-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1615,6 +1615,9 @@
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-3" value="МЕТРИКИ" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1478" y="1112" width="80" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="_ozsHwEbKT_WzGx7X_Zk-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="_ozsHwEbKT_WzGx7X_Zk-5" target="_ozsHwEbKT_WzGx7X_Zk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-5" value="Перцентиль" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1484" y="1183" width="92" height="28" as="geometry" />
         </mxCell>
@@ -1626,6 +1629,9 @@
         </mxCell>
         <mxCell id="_ozsHwEbKT_WzGx7X_Zk-7" value="Квартиль" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1375" y="1183" width="92" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="_ozsHwEbKT_WzGx7X_Zk-12" value="то же самое, что и квантиль, но в процентах" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="1269" width="266" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
