@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T04:44:10.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="KHXzlfkPvNutPEggJuhK" version="24.7.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-07-24T04:45:03.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="angHQQUP7TkCqjKN3du1" version="24.7.3" type="github" pages="10">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3240" dy="60" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3713" dy="319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1701,6 +1701,9 @@
         </mxCell>
         <mxCell id="ifL_CPGlHdmyYasj4MiA-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pictures.s3.yandex.net/resources/Vizualizatsiia_kategorialnykh_i_poriadkovykh_peremennykh_82_1689696808.png;" vertex="1" parent="1">
           <mxGeometry x="-1621" y="2111" width="378" height="271.22" as="geometry" />
+        </mxCell>
+        <mxCell id="ifL_CPGlHdmyYasj4MiA-7" value="&lt;b&gt;Коэффициент ковариации&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1531" y="2414" width="186" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
