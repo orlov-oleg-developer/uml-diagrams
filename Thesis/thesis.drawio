@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T04:23:54.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="pYmy__lOLL5lJ6ouNA6D" version="24.7.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-07-24T04:42:35.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="KczJz6lZlW4k1HG8rJxB" version="24.7.3" type="github" pages="10">
   <diagram name="FailureScheme" id="HGPwwvY6KHSOpUENS4j6">
     <mxGraphModel dx="2261" dy="-378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3208" dy="42" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3635" dy="276" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1694,7 +1694,10 @@
           <mxGeometry x="-1504.8" y="1892" width="145.6" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ifL_CPGlHdmyYasj4MiA-3" value="&lt;b&gt;Ковариация&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1515.5" y="1967" width="164" height="28" as="geometry" />
+          <mxGeometry x="-1514.01" y="1989" width="164" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ifL_CPGlHdmyYasj4MiA-4" value="Показывает, как изменяется одна величина при изменении другой." style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1625.02" y="2030" width="386.02" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
