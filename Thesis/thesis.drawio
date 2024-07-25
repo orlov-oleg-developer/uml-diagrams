@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3900" dy="421" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2968" dy="-89" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1725,6 +1725,12 @@
         </mxCell>
         <mxCell id="x4xHDKF8XpMH3Cp6CavO-2" value="Полный набор всех элементов, которые исследуют в рамках задачи" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="439" width="399" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x4xHDKF8XpMH3Cp6CavO-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Характеристика выборки&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-773" y="401" width="206" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="x4xHDKF8XpMH3Cp6CavO-6" value="Отдельный набор элементов, отобранных из генеральной совокупности некоторым случайным процессом" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-846" y="439" width="352" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
