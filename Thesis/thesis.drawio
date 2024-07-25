@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="4150" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3450" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1794,6 +1794,12 @@
         </mxCell>
         <mxCell id="x4xHDKF8XpMH3Cp6CavO-29" value="Исследовательские ошибки" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="-304" y="409" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UYxORgfzAHsFezOTtb3-1" value="Случайная величина" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-574" y="580.5" width="127" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="4UYxORgfzAHsFezOTtb3-2" value="&lt;div style=&quot;&quot;&gt;переменная, значение которой можно узнать только в результате проведения измерения&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="574.5" width="273" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
