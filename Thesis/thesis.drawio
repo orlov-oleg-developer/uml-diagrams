@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="2983" dy="319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1799,19 +1799,19 @@
           <mxGeometry x="-574" y="580.5" width="127" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4UYxORgfzAHsFezOTtb3-2" value="&lt;div style=&quot;&quot;&gt;переменная, значение которой можно узнать только в результате проведения измерения&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-424" y="574.5" width="273" height="39" as="geometry" />
+          <mxGeometry x="-424" y="580.5" width="273" height="39" as="geometry" />
         </mxCell>
         <mxCell id="4UYxORgfzAHsFezOTtb3-4" value="Вероятность события" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="-574" y="636" width="127" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4UYxORgfzAHsFezOTtb3-5" value="&lt;div style=&quot;&quot;&gt;отношение числа случаев, когда событие произошло, к общему числу испытаний или наблюдений.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-424" y="630" width="310" height="39" as="geometry" />
+          <mxGeometry x="-424" y="636" width="310" height="39" as="geometry" />
         </mxCell>
         <mxCell id="4UYxORgfzAHsFezOTtb3-6" value="Функция вероятности" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="-574" y="683" width="127" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="4UYxORgfzAHsFezOTtb3-7" value="&lt;div style=&quot;&quot;&gt;определяет вероятность того, что случайная величина примет определённое значение&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-424" y="677" width="310" height="39" as="geometry" />
+        <mxCell id="4UYxORgfzAHsFezOTtb3-7" value="&lt;div style=&quot;&quot;&gt;определяет вероятность того, что случайная величина примет определённое значение&lt;/div&gt;&lt;div style=&quot;&quot;&gt;P( X = x)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="683" width="310" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
