@@ -1807,6 +1807,12 @@
         <mxCell id="4UYxORgfzAHsFezOTtb3-5" value="&lt;div style=&quot;&quot;&gt;отношение числа случаев, когда событие произошло, к общему числу испытаний или наблюдений.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="-424" y="630" width="310" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="4UYxORgfzAHsFezOTtb3-6" value="Функция вероятности" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-574" y="683" width="127" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="4UYxORgfzAHsFezOTtb3-7" value="&lt;div style=&quot;&quot;&gt;определяет вероятность того, что случайная величина примет определённое значение&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="677" width="310" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
