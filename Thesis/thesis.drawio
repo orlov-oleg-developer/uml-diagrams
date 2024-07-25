@@ -1816,8 +1816,8 @@
         <mxCell id="4UYxORgfzAHsFezOTtb3-8" value="Эмпирическая функция распределения" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="-584" y="749" width="147" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="4UYxORgfzAHsFezOTtb3-9" value="&lt;div style=&quot;&quot;&gt;определяет вероятность того, что случайная величина примет определённое значение&lt;/div&gt;&lt;div style=&quot;&quot;&gt;P( X = x)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-424" y="749" width="310" height="54" as="geometry" />
+        <mxCell id="4UYxORgfzAHsFezOTtb3-9" value="&lt;div style=&quot;&quot;&gt;определяет вероятность того, что случайная величина примет значение, меньшее или равное заданному.&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;F ^ (x) = P(X ⩽ x)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="749" width="310" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
