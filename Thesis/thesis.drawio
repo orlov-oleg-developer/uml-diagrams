@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="5025" dy="1438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3036" dy="348" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1830,6 +1830,15 @@
         </mxCell>
         <mxCell id="4UYxORgfzAHsFezOTtb3-14" value="Значение диапазона" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-73" y="761.5" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EcWbFw3aODj1SIfnKZi7-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ТЕОРЕТИЧЕСКИЕ МОДЕЛИ&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1184" width="206" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EcWbFw3aODj1SIfnKZi7-2" value="Равномерное дискретное распределение" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-619" y="1246" width="167" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="EcWbFw3aODj1SIfnKZi7-3" value="&lt;div style=&quot;&quot;&gt;это тип теоретического распределения, в котором каждое возможное значение случайной величины X имеет одинаковую вероятность и лежит в пределах от a до b&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-429" y="1246" width="592" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
