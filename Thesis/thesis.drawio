@@ -1828,6 +1828,9 @@
         <mxCell id="4UYxORgfzAHsFezOTtb3-13" value="Конкретное значение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-73" y="645" width="122" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4UYxORgfzAHsFezOTtb3-14" value="Значение диапазона" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-73" y="761.5" width="122" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
