@@ -1846,7 +1846,7 @@
         <mxCell id="EcWbFw3aODj1SIfnKZi7-5" value="Функция распределения" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="-619" y="1541" width="167" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="EcWbFw3aODj1SIfnKZi7-6" value="&lt;div style=&quot;&quot;&gt;это тип теоретического распределения, в котором каждое возможное значение случайной величины X имеет одинаковую вероятность и лежит в пределах от a до b&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="EcWbFw3aODj1SIfnKZi7-6" value="&lt;div style=&quot;&quot;&gt;определяет вероятность того, что случайная величина примет значение меньше или равное заданному.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;F(x) = P(X ⩽ x)&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="-429" y="1541" width="592" height="39" as="geometry" />
         </mxCell>
       </root>
