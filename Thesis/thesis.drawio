@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3450" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3240" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1862,7 +1862,7 @@
           <mxGeometry x="-699.82" y="1609" width="572.39" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MZacl5ODbJsUy-JqNth0-8" value="&lt;b&gt;Математическое ожидание&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-583" y="2138" width="167" height="28" as="geometry" />
+          <mxGeometry x="-587" y="2138" width="175" height="28" as="geometry" />
         </mxCell>
         <mxCell id="MZacl5ODbJsUy-JqNth0-9" value="&lt;div style=&quot;&quot;&gt;среднее значение случайной величины&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;( теоретическая величина )&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="-393" y="2138" width="246" height="39" as="geometry" />
