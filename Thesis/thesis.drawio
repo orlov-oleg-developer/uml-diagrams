@@ -1865,7 +1865,7 @@
           <mxGeometry x="-583" y="2138" width="167" height="28" as="geometry" />
         </mxCell>
         <mxCell id="MZacl5ODbJsUy-JqNth0-9" value="&lt;div style=&quot;&quot;&gt;среднее значение случайной величины&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-393" y="2138" width="246" height="30" as="geometry" />
+          <mxGeometry x="-393" y="2138" width="246" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
