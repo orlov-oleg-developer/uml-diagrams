@@ -1856,7 +1856,7 @@
           <mxGeometry x="99" y="580.5" width="20" height="216.5" as="geometry" />
         </mxCell>
         <mxCell id="MZacl5ODbJsUy-JqNth0-2" value="Эмпирические величины" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="138" y="673.75" width="143" height="30" as="geometry" />
+          <mxGeometry x="128" y="675" width="143" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
