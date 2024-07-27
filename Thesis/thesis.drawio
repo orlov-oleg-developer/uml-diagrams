@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3275" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3100" dy="383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1895,7 +1895,7 @@
           <mxGeometry x="-716" y="2843" width="598" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8R3Sw5DTPoBa-W3HpSSE-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Нормальное распределение&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-546" y="3121" width="228" height="27" as="geometry" />
+          <mxGeometry x="-546" y="3121" width="228" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8R3Sw5DTPoBa-W3HpSSE-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pictures.s3.yandex.net/resources/3_1686045588.png;" vertex="1" parent="1">
           <mxGeometry x="-569.4000000000001" y="2902" width="274.8" height="199" as="geometry" />
