@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3400" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3208" dy="442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1905,6 +1905,12 @@
         </mxCell>
         <mxCell id="8R3Sw5DTPoBa-W3HpSSE-5" value="&lt;div style=&quot;&quot;&gt;тип теоретического распределения, в котором значения в основном сосредоточены вокруг среднего. Это распределение имеет форму колокола и описывается двумя параметрами: средним значением ������ и дисперсией ������2.&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="-422" y="3175" width="561" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8R3Sw5DTPoBa-W3HpSSE-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pictures.s3.yandex.net/resources/1.3.5_Normalnoe_raspredelenie_1690823963.png;" vertex="1" parent="1">
+          <mxGeometry x="-672.01" y="3383" width="414.02" height="273.6" as="geometry" />
+        </mxCell>
+        <mxCell id="8R3Sw5DTPoBa-W3HpSSE-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Правило 3&amp;nbsp;&lt;/b&gt;&lt;/span&gt;������" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-546" y="3253" width="228" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
