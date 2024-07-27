@@ -1542,7 +1542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AHz01xkM1-g24fy28fv" name="Описательная статистика">
-    <mxGraphModel dx="3713" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="329" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1917,6 +1917,12 @@
         </mxCell>
         <mxCell id="8R3Sw5DTPoBa-W3HpSSE-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pictures.s3.yandex.net/resources/standard_normal_1686046572.png;" vertex="1" parent="1">
           <mxGeometry x="769.48" y="1188" width="333.05" height="241.18" as="geometry" />
+        </mxCell>
+        <mxCell id="8R3Sw5DTPoBa-W3HpSSE-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="897.51" y="1439" width="76.99" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8R3Sw5DTPoBa-W3HpSSE-11" value="&lt;div style=&quot;&quot;&gt;Приведение нормального распределения к стандартному&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="1444" width="359" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
