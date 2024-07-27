@@ -1885,6 +1885,12 @@
         <mxCell id="MZacl5ODbJsUy-JqNth0-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Непрерывная величина&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="-535" y="2728" width="206" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="MZacl5ODbJsUy-JqNth0-16" value="&lt;b&gt;Функция плотности вероятности&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-648" y="2779" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="MZacl5ODbJsUy-JqNth0-17" value="&lt;div style=&quot;&quot;&gt;это функция, которая описывает вероятность того, что непрерывная случайная величина примет значение в определённом интервале. Она обозначается как ������ ������ ( ������ ) .&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-409" y="2779" width="561" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
