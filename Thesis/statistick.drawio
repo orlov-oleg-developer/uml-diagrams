@@ -386,10 +386,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mbnRjhoExDguCv7iERR_" name="Статистические тесты">
-    <mxGraphModel dx="1050" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="26" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-JvHdop0BJc9ho88ROoF-1" value="Распределение выборочных средних" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-677" y="580.5" width="230" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-JvHdop0BJc9ho88ROoF-2" value="&lt;div style=&quot;&quot;&gt;это распределение, показывающее, какие значения принимает среднее значение случайной выборки из генеральной совокупности при многократном повторении эксперимента&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="580.5" width="377" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ElfvZ8MQ1LrKc6ljRnbK-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Стандартная ошибка среднего&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-519" y="508" width="239" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
