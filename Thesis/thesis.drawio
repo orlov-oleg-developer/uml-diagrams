@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="574" dy="-84" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="292" dy="-240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1155,21 +1155,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NhhPjwqvWakGxVV_LXga-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="914" y="1700" width="42" height="60" as="geometry" />
+          <mxGeometry x="1204" y="1700" width="42" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhhPjwqvWakGxVV_LXga-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NhhPjwqvWakGxVV_LXga-7" target="NhhPjwqvWakGxVV_LXga-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="905" y="1794" as="sourcePoint" />
-            <mxPoint x="955" y="1744" as="targetPoint" />
+            <mxPoint x="1195" y="1794" as="sourcePoint" />
+            <mxPoint x="1245" y="1744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NhhPjwqvWakGxVV_LXga-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1717" width="42" height="60" as="geometry" />
+          <mxGeometry x="1260" y="1717" width="42" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NhhPjwqvWakGxVV_LXga-10" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NhhPjwqvWakGxVV_LXga-9" target="NhhPjwqvWakGxVV_LXga-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="966" y="1772" as="sourcePoint" />
-            <mxPoint x="1016" y="1722" as="targetPoint" />
+            <mxPoint x="1256" y="1772" as="sourcePoint" />
+            <mxPoint x="1306" y="1722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
