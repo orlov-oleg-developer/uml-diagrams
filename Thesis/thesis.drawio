@@ -1633,7 +1633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WhvpQy4NWjlpOxGFdTxh-7" value="минимальная балльная оценка i-ой группы показателей технического состояния среди всех элементов (опор и пролетов) функционального узла (сегмента) для ВЛ" style="text;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="402" width="353" height="56" as="geometry" />
+          <mxGeometry x="-262" y="402" width="353" height="56" as="geometry" />
         </mxCell>
         <mxCell id="WhvpQy4NWjlpOxGFdTxh-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WhvpQy4NWjlpOxGFdTxh-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1644,6 +1644,15 @@
         <mxCell id="WhvpQy4NWjlpOxGFdTxh-11" value="пункт 6.4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhvpQy4NWjlpOxGFdTxh-9">
           <mxGeometry x="0.0432" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-12" value="значение «важности» i-ой группы показателей технического состояния в соответствии с приложением № А (графа 19)" style="text;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="101" y="403" width="258" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WhvpQy4NWjlpOxGFdTxh-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="348" as="sourcePoint" />
+            <mxPoint x="-75" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
