@@ -1602,7 +1602,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rsv-8rJ0PiU6LfV4fw8q" name="Расчёт ИТС">
-    <mxGraphModel dx="1195" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1625,6 +1625,25 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="463" y="252" as="sourcePoint" />
             <mxPoint x="545" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-10" value="пункты 6.5 и 6.6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhvpQy4NWjlpOxGFdTxh-6">
+          <mxGeometry x="0.1096" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-7" value="минимальная балльная оценка i-ой группы показателей технического состояния среди всех элементов (опор и пролетов) функционального узла (сегмента) для ВЛ" style="text;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-102" y="402" width="353" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WhvpQy4NWjlpOxGFdTxh-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="338" as="sourcePoint" />
+            <mxPoint x="92" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-11" value="пункт 6.4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhvpQy4NWjlpOxGFdTxh-9">
+          <mxGeometry x="0.0432" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
