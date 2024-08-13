@@ -1661,7 +1661,7 @@
         <mxCell id="WhvpQy4NWjlpOxGFdTxh-16" value="Функциональный узел" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-183" y="301" width="166" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WhvpQy4NWjlpOxGFdTxh-17" value="Элементы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-17" value="Элементы / Сегменты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-467" y="415" width="166" height="30" as="geometry" />
         </mxCell>
       </root>
