@@ -1664,6 +1664,9 @@
         <mxCell id="WhvpQy4NWjlpOxGFdTxh-17" value="Элементы / Сегменты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-467" y="415" width="166" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WhvpQy4NWjlpOxGFdTxh-18" value="Единицы измерения и возможные значения - графы 10 и 11&#xa;Бальная шкала оценки - графы 12 - 16" style="text;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-262" y="483" width="353" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
