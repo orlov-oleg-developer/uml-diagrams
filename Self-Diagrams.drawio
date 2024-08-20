@@ -406,6 +406,9 @@
         <mxCell id="r8F61K83bfz4DCBg_qUl-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;GodObject.tsx&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1351" y="249" width="186" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="r8F61K83bfz4DCBg_qUl-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r8F61K83bfz4DCBg_qUl-7" target="r8F61K83bfz4DCBg_qUl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r8F61K83bfz4DCBg_qUl-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;dispatch(godObjectSliceActions.addRow(id))&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1200" y="335" width="488" height="44" as="geometry" />
         </mxCell>
@@ -418,6 +421,9 @@
         <mxCell id="r8F61K83bfz4DCBg_qUl-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;godObjectSlice.ts&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2002" y="249" width="213" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="r8F61K83bfz4DCBg_qUl-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r8F61K83bfz4DCBg_qUl-21" target="r8F61K83bfz4DCBg_qUl-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r8F61K83bfz4DCBg_qUl-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;const index = [...state.table]?.findIndex((row) =&amp;gt; row.id === payload) || 0;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1742" y="335" width="733" height="44" as="geometry" />
         </mxCell>
@@ -425,13 +431,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r8F61K83bfz4DCBg_qUl-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;const row = getDefaultRow();&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="408" width="337" height="44" as="geometry" />
+          <mxGeometry x="1940" y="441" width="337" height="44" as="geometry" />
         </mxCell>
         <mxCell id="r8F61K83bfz4DCBg_qUl-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;getDefaultRow.ts&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2765" y="249" width="213" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="r8F61K83bfz4DCBg_qUl-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r8F61K83bfz4DCBg_qUl-25" target="r8F61K83bfz4DCBg_qUl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r8F61K83bfz4DCBg_qUl-25" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;() =&amp;gt; ({&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp; name: getValidationObject(&#39;&#39;),&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp; age: getValidationObject(0),&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp; town: getValidationObject&amp;lt;Town&amp;gt;(&#39;Moscow&#39;),&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp; hobby: getValidationObject&amp;lt;Hobby&amp;gt;(&#39;Programming&#39;),&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp; id: v1(),&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;})&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2588" y="408" width="567" height="212" as="geometry" />
+          <mxGeometry x="2588" y="441" width="567" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="r8F61K83bfz4DCBg_qUl-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r8F61K83bfz4DCBg_qUl-29" target="r8F61K83bfz4DCBg_qUl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8F61K83bfz4DCBg_qUl-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;row.age.errorText = &#39;Возраст должен быть выше 18 лет&#39;;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1808" y="758" width="601" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="r8F61K83bfz4DCBg_qUl-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;state.table.splice(index + 1, 0, row)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1808" y="850" width="601" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
