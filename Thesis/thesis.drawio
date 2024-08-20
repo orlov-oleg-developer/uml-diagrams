@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="1269" dy="79" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1161,25 +1161,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-5" value="&lt;b&gt;ГИПОТЕЗЫ&lt;/b&gt;&lt;div&gt;&lt;b&gt;можно ли считать вероятность отказа на основе ИТС&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="2832" width="236" height="54" as="geometry" />
+          <mxGeometry x="-5" y="3010" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-6" value="&lt;b&gt;ИТС отражает фактическую аварийность&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="437" y="2705" width="236" height="39" as="geometry" />
+          <mxGeometry x="437" y="2883" width="236" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="ZSG9ixzRx8XPbUjyP-Zi-8" target="ZSG9ixzRx8XPbUjyP-Zi-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-8" value="&lt;b&gt;ИТС отражает фактическую аварийность (износовые отключения)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="437" y="2756" width="245" height="39" as="geometry" />
+          <mxGeometry x="437" y="2934" width="245" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-10" value="&lt;b&gt;Какие причины отказа обладают накопительным эффектом?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="732" y="2756" width="245" height="39" as="geometry" />
+          <mxGeometry x="732" y="2934" width="245" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-12" value="&lt;b&gt;Чем ниже ИТС тем выше вероятность отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="437" y="2807" width="245" height="39" as="geometry" />
+          <mxGeometry x="437" y="2985" width="245" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ZSG9ixzRx8XPbUjyP-Zi-14" value="" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="437" y="2858" width="245" height="39" as="geometry" />
+          <mxGeometry x="437" y="3036" width="245" height="39" as="geometry" />
         </mxCell>
         <mxCell id="qYnbNNf49rxUkKLU6DPz-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LqWB3zgw_1m7NDqEWqEV-2" target="qYnbNNf49rxUkKLU6DPz-10">
           <mxGeometry relative="1" as="geometry" />
