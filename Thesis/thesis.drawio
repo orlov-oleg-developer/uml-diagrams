@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJYSidind0iZBuifUAVN" name="Моя статья №1">
-    <mxGraphModel dx="6136" dy="2764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1319,8 +1319,14 @@
         <mxCell id="qYnbNNf49rxUkKLU6DPz-47" value="&lt;b&gt;Снижение ИТС ведет к росту вероятности отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="862" y="2617" width="161" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="qYnbNNf49rxUkKLU6DPz-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qYnbNNf49rxUkKLU6DPz-52" target="qYnbNNf49rxUkKLU6DPz-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qYnbNNf49rxUkKLU6DPz-52" value="&lt;b&gt;Понять какие причины взаимосвязаны&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
           <mxGeometry x="1073" y="2617" width="161" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="qYnbNNf49rxUkKLU6DPz-54" value="&lt;b&gt;Отследить отказы по энергообъектам&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1342" y="2562" width="161" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
