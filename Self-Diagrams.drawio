@@ -1028,7 +1028,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aoJOY_Pcm1sYDpQHJk2h" name="Page-6">
-    <mxGraphModel dx="-397" dy="2276" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-345" dy="2571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1112,14 +1112,48 @@
         <mxCell id="zqI9naJMEJE3_5j9JTlj-31" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zqI9naJMEJE3_5j9JTlj-26" target="zqI9naJMEJE3_5j9JTlj-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-32" value="id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="zqI9naJMEJE3_5j9JTlj-31">
+          <mxGeometry x="0.3223" y="-3" relative="1" as="geometry">
+            <mxPoint x="-10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zqI9naJMEJE3_5j9JTlj-26" value="&lt;b&gt;onAdd&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1713" y="-246" width="118" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zqI9naJMEJE3_5j9JTlj-29" value="&lt;b&gt;GodObject.tsx&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1968" y="-320" width="118" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zqI9naJMEJE3_5j9JTlj-30" target="zqI9naJMEJE3_5j9JTlj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-37" value="id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="zqI9naJMEJE3_5j9JTlj-36">
+          <mxGeometry x="0.2096" y="-2" relative="1" as="geometry">
+            <mxPoint x="-6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zqI9naJMEJE3_5j9JTlj-30" value="&lt;b&gt;dispatch(godObjectSliceActions.addRow(id))&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1894" y="-246" width="270" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-34" value="&lt;b&gt;GodObject.tsx&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2378" y="-320" width="118" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zqI9naJMEJE3_5j9JTlj-35" target="zqI9naJMEJE3_5j9JTlj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-35" value="&lt;b&gt;const index = [...state.table]?.findIndex((row) =&amp;gt; row.id === payload) || 0;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="-246" width="434" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zqI9naJMEJE3_5j9JTlj-38" target="zqI9naJMEJE3_5j9JTlj-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-38" value="&lt;b&gt;const row = getDefaultRow();&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2339" y="-167" width="196" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-40" value="&lt;b&gt;getDefaultRow.ts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2924" y="-320" width="118" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="zqI9naJMEJE3_5j9JTlj-41" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;b&gt;() =&amp;gt; ({&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; name: getValidationObject(&#39;&#39;),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; age: getValidationObject(0),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; town: getValidationObject&amp;lt;Town&amp;gt;(&#39;Moscow&#39;),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; hobby: getValidationObject&amp;lt;Hobby&amp;gt;(&#39;Programming&#39;),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; id: v1(),&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;}&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2767" y="-171" width="390" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
