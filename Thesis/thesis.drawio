@@ -1310,9 +1310,6 @@
         <mxCell id="jbTsR32mNDFLvDjCu_NW-47" value="&lt;b&gt;МВС&lt;br&gt;&lt;/b&gt;&lt;b&gt;(выосковольтные)&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="488" y="2163" width="124" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="jbTsR32mNDFLvDjCu_NW-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="jbTsR32mNDFLvDjCu_NW-48" target="jbTsR32mNDFLvDjCu_NW-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-48" value="&lt;b&gt;МКС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="492" y="2288" width="106" height="28" as="geometry" />
         </mxCell>
