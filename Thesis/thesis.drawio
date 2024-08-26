@@ -1337,9 +1337,6 @@
         <mxCell id="jbTsR32mNDFLvDjCu_NW-70" value="&lt;b&gt;КВЛ 0.2&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="688" y="2341" width="66" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-1" value="&lt;b&gt;ВЛ, КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="688" y="2478" width="66" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-4" value="&lt;b&gt;Орг. причины&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="836" y="1800" width="89" height="28" as="geometry" />
         </mxCell>
@@ -1468,6 +1465,15 @@
             <mxPoint x="432" y="2574" as="sourcePoint" />
             <mxPoint x="1312" y="2574" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-36" value="&lt;b&gt;КВЛ 0.3&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="687" y="2465" width="66" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-37" value="&lt;b&gt;КЛ 0.4&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="697" y="2501" width="48" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-38" value="&lt;b&gt;КЛ 0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="699" y="1860" width="44" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
