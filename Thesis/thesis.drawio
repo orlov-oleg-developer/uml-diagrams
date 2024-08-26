@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="1774" dy="316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1360,6 +1360,9 @@
         </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-1" value="&lt;b&gt;ВЛ, КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="679" y="2101" width="66" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-4" value="&lt;b&gt;Орг. причины&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="803" y="1843" width="89" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
