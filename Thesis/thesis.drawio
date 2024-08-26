@@ -1379,11 +1379,17 @@
         <mxCell id="pNUF3d8uWRTpkvexSRJU-4" value="&lt;b&gt;Орг. причины&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="836" y="1843" width="89" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="pNUF3d8uWRTpkvexSRJU-5" target="pNUF3d8uWRTpkvexSRJU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-5" value="&lt;b&gt;3.4.7.3.5&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="853" y="1919" width="55" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-7" value="&lt;b&gt;3.4.13.3&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="853" y="1992" width="55" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="pNUF3d8uWRTpkvexSRJU-9" target="pNUF3d8uWRTpkvexSRJU-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-9" value="&lt;b&gt;3.4.7.3.5,&amp;nbsp;3.4.8.5.2,&amp;nbsp;&lt;/b&gt;&lt;b&gt;3.4.7.3.1,&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="773" y="2028" width="215" height="28" as="geometry" />
@@ -1393,6 +1399,18 @@
         </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-13" value="&lt;b&gt;3.4.7.3.5&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="853" y="2101" width="55" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-15" value="&lt;b&gt;Тех. причины&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="1843" width="89" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-16" value="&lt;b&gt;4.12&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="1919" width="55" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-17" value="&lt;b&gt;4.4.2, 4.6, 4.12&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="2028" width="95" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-20" value="&lt;b&gt;4.10, 4.14&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="2101" width="95" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
