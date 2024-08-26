@@ -1364,6 +1364,9 @@
         <mxCell id="pNUF3d8uWRTpkvexSRJU-4" value="&lt;b&gt;Орг. причины&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="803" y="1843" width="89" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-5" value="&lt;b&gt;3.4.7.3.5&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1919" width="55" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
