@@ -1355,11 +1355,11 @@
         <mxCell id="jbTsR32mNDFLvDjCu_NW-68" value="&lt;b&gt;КЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="690" y="2028" width="44" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="jbTsR32mNDFLvDjCu_NW-70" value="&lt;b&gt;КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2065" width="44" height="28" as="geometry" />
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-70" value="&lt;b&gt;ВЛ, КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="679" y="2065" width="66" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-1" value="&lt;b&gt;КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2101" width="44" height="28" as="geometry" />
+        <mxCell id="pNUF3d8uWRTpkvexSRJU-1" value="&lt;b&gt;ВЛ, КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="679" y="2101" width="66" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
