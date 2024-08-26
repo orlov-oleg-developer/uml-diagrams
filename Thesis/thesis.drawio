@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="2709" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1273,6 +1273,30 @@
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;От большего к меньшему&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="385" y="1817" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-43" value="&lt;b&gt;Филиал&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1992" width="82" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-44" value="&lt;b&gt;Новая Москва&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1883" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-45" value="&lt;b&gt;Восточные ЭС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1919" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-46" value="&lt;b&gt;Западные ЭС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1956" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-47" value="&lt;b&gt;МВС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1992" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-48" value="&lt;b&gt;МКС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="2028" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-49" value="&lt;b&gt;Северные ЭС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="2065" width="106" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-50" value="&lt;b&gt;Южные ЭС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="2101" width="106" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
