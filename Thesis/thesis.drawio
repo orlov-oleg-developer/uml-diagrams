@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="2504" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1474,6 +1474,15 @@
         </mxCell>
         <mxCell id="gf6Rv4q0wkD_2CnlrVOx-38" value="&lt;b&gt;КЛ 0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="699" y="1860" width="44" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-39" value="&lt;b&gt;ТП 0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="647" y="2537" width="44" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-40" value="&lt;b&gt;ТРП 0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="696" y="2537" width="50" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-41" value="&lt;b&gt;ВЛ 0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="751" y="2537" width="44" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
