@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="1598" dy="220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2504" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1311,13 +1311,10 @@
           <mxGeometry x="488" y="2163" width="124" height="38" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-48" value="&lt;b&gt;МКС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="492" y="2288" width="106" height="28" as="geometry" />
+          <mxGeometry x="492" y="2271" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-49" value="&lt;b&gt;Северные ЭС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="488" y="2366" width="106" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="jbTsR32mNDFLvDjCu_NW-50" target="pNUF3d8uWRTpkvexSRJU-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="488" y="2378" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-50" value="&lt;b&gt;Южные ЭС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="492" y="2478" width="106" height="28" as="geometry" />
@@ -1339,9 +1336,6 @@
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-70" value="&lt;b&gt;КВЛ 0.2&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="688" y="2341" width="66" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="pNUF3d8uWRTpkvexSRJU-1" target="pNUF3d8uWRTpkvexSRJU-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-1" value="&lt;b&gt;ВЛ, КВЛ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="688" y="2478" width="66" height="28" as="geometry" />
@@ -1467,6 +1461,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="421" y="2453" as="sourcePoint" />
             <mxPoint x="1301" y="2453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432" y="2574" as="sourcePoint" />
+            <mxPoint x="1312" y="2574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
