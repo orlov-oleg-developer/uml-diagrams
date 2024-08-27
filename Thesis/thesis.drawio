@@ -1553,6 +1553,12 @@
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-31" value="3.4.8.5.2&amp;nbsp;&lt;b&gt;0.12&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="907" y="2511" width="86" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-32" value="3.4.13.4 &lt;b&gt;0.05&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="1974" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-33" value="3.4.13.4 &lt;b&gt;0.13&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="2298" width="86" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
