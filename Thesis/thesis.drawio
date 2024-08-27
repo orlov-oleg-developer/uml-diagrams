@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="1883" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2224" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1343,26 +1343,11 @@
         <mxCell id="pNUF3d8uWRTpkvexSRJU-5" value="3.4.7.3.5 &lt;b&gt;0.07&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="810" y="1860" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-9" value="&lt;b&gt;3.4.7.3.5,&amp;nbsp;3.4.8.5.2,&amp;nbsp;&lt;/b&gt;&lt;b&gt;3.4.7.3.1,&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="826" y="2298" width="215" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-11" value="&lt;b&gt;3.4.7.3.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="853" y="2399" width="55" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-13" value="&lt;b&gt;3.4.7.3.5&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="853" y="2488" width="55" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-15" value="&lt;b&gt;Тех. причины&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" parent="1" vertex="1">
           <mxGeometry x="1300" y="1800" width="89" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pNUF3d8uWRTpkvexSRJU-16" value="&lt;b&gt;4.12&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="1406" y="1967" width="55" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-17" value="&lt;b&gt;4.4.2, 4.6, 4.12&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1067" y="2298" width="95" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="pNUF3d8uWRTpkvexSRJU-20" value="&lt;b&gt;4.10, 4.14&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1014" y="2488" width="95" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gf6Rv4q0wkD_2CnlrVOx-3" value="Нарушение эл-ой изоляции" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1353" y="1936" width="161" height="28" as="geometry" />
@@ -1537,6 +1522,30 @@
         </mxCell>
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-16" value="3.4.13.3&amp;nbsp;&lt;b&gt;0.36&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="810" y="2138" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-17" value="3.4.3.3&amp;nbsp;&lt;b&gt;0.09&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="901" y="2138" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-19" value="3.4.7.3.5&amp;nbsp;&lt;b&gt;0.35&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2260" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-20" value="3.4.8.5.2&amp;nbsp;&lt;b&gt;0.27&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="901" y="2260" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-21" value="3.4.12.5.1&amp;nbsp;&lt;b&gt;0.14&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990.5" y="2260" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-22" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.23&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2298" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-23" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.23&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="901" y="2298" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-24" value="3.4.7.3.4&amp;nbsp;&lt;b&gt;0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990.5" y="2298" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-25" value="3.4.12.3&amp;nbsp;&lt;b&gt;0.08&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1079.5" y="2298" width="86" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
