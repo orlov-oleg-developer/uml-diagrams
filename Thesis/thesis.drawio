@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="2224" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1546,6 +1546,12 @@
         </mxCell>
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-29" value="3.4.7.3.5&amp;nbsp;&lt;b&gt;0.18&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="811" y="2511" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-30" value="3.4.8.5.2&amp;nbsp;&lt;b&gt;0.1&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="907" y="2388" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="0AzSvAj1mnaHvHHHpRFH-31" value="3.4.8.5.2&amp;nbsp;&lt;b&gt;0.12&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="907" y="2511" width="86" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
