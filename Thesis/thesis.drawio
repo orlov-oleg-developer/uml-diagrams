@@ -1452,7 +1452,7 @@
           <mxGeometry x="1774" y="2138" width="86" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-19" value="3.4.7.3.5&amp;nbsp;&lt;b&gt;0.35&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
-          <mxGeometry x="811" y="2260" width="86" height="28" as="geometry" />
+          <mxGeometry x="811" y="2281" width="86" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-20" value="3.4.8.5.2&amp;nbsp;&lt;b&gt;0.27&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="907" y="2260" width="86" height="28" as="geometry" />
@@ -1465,6 +1465,9 @@
         </mxCell>
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-26" value="3.4.13.4&amp;nbsp;&lt;b&gt;0.35&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1003" y="2351" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-5" value="&lt;b&gt;ТРП 0.09&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1860" width="62" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
