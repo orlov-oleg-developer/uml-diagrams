@@ -1021,7 +1021,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="1663" dy="255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1501,6 +1501,12 @@
         </mxCell>
         <mxCell id="-mDvdm6kO0sI_q4dIrNr-16" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.14&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="1286" y="2375" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-17" value="Дефект&lt;div&gt;изготовления&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1894" width="86" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-18" value="3.4.13.3&amp;nbsp;&lt;b&gt;0.36&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="2274" width="86" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
