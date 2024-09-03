@@ -838,6 +838,9 @@
         <mxCell id="wDi-fR1dx-0o0x5ziNSb-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Прогноз развития неисправности&lt;br&gt;(Оценка остаточного ресурса)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fbaf00;strokeColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="679" y="2530" width="254" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="wDi-fR1dx-0o0x5ziNSb-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Time to failure (TTF)&lt;br&gt;Remaining useful life (RUL)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fbaf00;strokeColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="679" y="2596" width="254" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
