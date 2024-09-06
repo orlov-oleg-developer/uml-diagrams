@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.10" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.12" pages="7">
   <diagram id="baR8Wroa7OcL6M_A_dID" name="НИР">
     <mxGraphModel dx="2391" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="2996" dy="753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3249" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,7 +1036,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-14" value="&lt;b&gt;Расчёт вероятности отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="837" y="1601" width="236" height="28" as="geometry" />
+          <mxGeometry x="837" y="1537" width="236" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-17" target="jbTsR32mNDFLvDjCu_NW-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1045,16 +1045,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-17" value="&lt;b&gt;На основе ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1144" y="1524.5" width="161" height="27" as="geometry" />
+          <mxGeometry x="1144" y="1460.5" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-20" target="jbTsR32mNDFLvDjCu_NW-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jbTsR32mNDFLvDjCu_NW-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-20" target="jbTsR32mNDFLvDjCu_NW-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jbTsR32mNDFLvDjCu_NW-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1377" y="1664" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-20" value="&lt;b&gt;На основе статистики&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="1676" width="161" height="28" as="geometry" />
+          <mxGeometry x="1140" y="1612" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-24" target="jbTsR32mNDFLvDjCu_NW-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1066,19 +1068,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-24" value="&lt;b&gt;В СУПА на список влияют&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="382" y="1601" width="182" height="28" as="geometry" />
+          <mxGeometry x="382" y="1537" width="182" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-25" value="&lt;b&gt;ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="621" y="1565" width="161" height="27" as="geometry" />
+          <mxGeometry x="621" y="1501" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-27" target="jbTsR32mNDFLvDjCu_NW-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-27" value="&lt;b&gt;Вероятность отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="621" y="1602" width="161" height="27" as="geometry" />
+          <mxGeometry x="621" y="1538" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-28" value="&lt;b&gt;Последствия отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="621" y="1642" width="161" height="27" as="geometry" />
+          <mxGeometry x="621" y="1578" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-29" value="&lt;b&gt;Для какого типа оборудования&lt;/b&gt;&lt;div&gt;&lt;b&gt;какой вид отключений&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;имеет большее значение&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-134" y="1966" width="240" height="57" as="geometry" />
@@ -1087,16 +1089,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-31" value="&lt;b&gt;Внезапные отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1383" y="1487" width="161" height="27" as="geometry" />
+          <mxGeometry x="1383" y="1423" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-33" target="jbTsR32mNDFLvDjCu_NW-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-33" value="&lt;b&gt;Износовые отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="1559" width="161" height="28" as="geometry" />
+          <mxGeometry x="1380" y="1495" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-34" value="&lt;b&gt;Внезапные отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="1642" width="161" height="27" as="geometry" />
+          <mxGeometry x="1380" y="1578" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-35" value="&lt;b&gt;Износовые отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="1377" y="1714" width="161" height="28" as="geometry" />
@@ -1105,22 +1107,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-37" value="&lt;b&gt;Снижение ИТС ведет к росту вероятности отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1597" y="1517" width="161" height="42" as="geometry" />
+          <mxGeometry x="1597" y="1453" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-39" target="jbTsR32mNDFLvDjCu_NW-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-39" value="&lt;b&gt;Понять какие причины взаимосвязаны&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1808" y="1517" width="161" height="42" as="geometry" />
+          <mxGeometry x="1808" y="1453" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-40" value="&lt;b&gt;Отследить отказы по энергообъектам&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2032" y="1517" width="161" height="42" as="geometry" />
+          <mxGeometry x="2032" y="1453" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-41" value="&lt;b&gt;Для какого филиала&lt;/b&gt;&lt;div&gt;&lt;b&gt;какой вид отключений&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;имеет большее значение&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-134" y="1897" width="240" height="57" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Корреляция с отключениями&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="385" y="1715" width="380" height="30" as="geometry" />
+          <mxGeometry x="385" y="1758" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;curved=1;" parent="1" source="jbTsR32mNDFLvDjCu_NW-43" target="jbTsR32mNDFLvDjCu_NW-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1314,55 +1316,55 @@
         <mxCell id="0AzSvAj1mnaHvHHHpRFH-26" value="3.4.13.4&amp;nbsp;&lt;b&gt;0.35&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1003" y="2482" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-5" value="&lt;b&gt;ТРП 0.09&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-5" value="&lt;b&gt;ТРП 0.09&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="689" y="1954" width="62" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Чаще всего в [Филиал] отключается [Группа оборудования] по причине [Орг. причина и Тех. причина] со сроком службы&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Чаще всего в [Филиал] отключается [Группа оборудования] по причине [Орг. причина и Тех. причина] со сроком службы&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="355" y="1795" width="846" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-7" value="Неудов. тех. сост." style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-7" value="Неудов. тех. сост." style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="811" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-8" value="Неум. пов." style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-8" value="Неум. пов." style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="904" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-9" value="Дефекты монтажа" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-9" value="Дефекты монтажа" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-10" value="Несоб. сроков ТО" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-10" value="Несоб. сроков ТО" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1099" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-11" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.16&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-11" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.16&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1100" y="2482" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-12" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.13&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-12" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.13&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1099" y="2605" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-13" value="Несво. вырубка" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-13" value="Несво. вырубка" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1193" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-14" value="3.4.7.3.4&amp;nbsp;&lt;b&gt;0.06&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-14" value="3.4.7.3.4&amp;nbsp;&lt;b&gt;0.06&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1193" y="2607" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-15" value="Пучение&lt;div&gt;грунтов&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-15" value="Пучение&lt;div&gt;грунтов&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1286" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-16" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.14&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-16" value="3.4.7.3.1&amp;nbsp;&lt;b&gt;0.14&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1286" y="2375" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-17" value="Дефект&lt;div&gt;изготовления&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-17" value="Дефект&lt;div&gt;изготовления&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1380" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-18" value="3.4.13.3&amp;nbsp;&lt;b&gt;0.36&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-18" value="3.4.13.3&amp;nbsp;&lt;b&gt;0.36&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1383" y="2274" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-19" value="Гроза" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-19" value="Гроза" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="1472" y="1894" width="86" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-20" value="3.4.12.3&amp;nbsp;&lt;b&gt;0.07&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-20" value="3.4.12.3&amp;nbsp;&lt;b&gt;0.07&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1472" y="2274" width="86" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="-mDvdm6kO0sI_q4dIrNr-21" value="3.4.12.3&amp;nbsp;&lt;b&gt;0.07&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="-mDvdm6kO0sI_q4dIrNr-21" value="3.4.12.3&amp;nbsp;&lt;b&gt;0.07&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="1466" y="2482" width="86" height="28" as="geometry" />
         </mxCell>
       </root>
