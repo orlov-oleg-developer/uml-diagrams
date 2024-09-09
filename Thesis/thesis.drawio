@@ -1086,7 +1086,7 @@
           <mxGeometry x="-2365" y="-1887" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-33" value="&lt;b&gt;Износовые отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2368" y="-1815" width="161" height="28" as="geometry" />
+          <mxGeometry x="-3134" y="-1810" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-34" value="&lt;b&gt;Внезапные отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-2898" y="-1732" width="161" height="27" as="geometry" />
