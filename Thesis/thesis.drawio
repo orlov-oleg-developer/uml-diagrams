@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="6049" dy="3130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5434" dy="2791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1379,11 +1379,29 @@
         <mxCell id="GCMBFEZ5am4deYwPofeO-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="GCMBFEZ5am4deYwPofeO-1" target="GCMBFEZ5am4deYwPofeO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GCMBFEZ5am4deYwPofeO-1" value="&lt;b&gt;Берем ресурсопределяющие показатели&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-3896" y="-1542" width="281" height="27" as="geometry" />
+        <mxCell id="GCMBFEZ5am4deYwPofeO-1" value="&lt;b&gt;Берем ресурсопределяющие показатели&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-3525" y="-1508" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-2" value="&lt;b&gt;Отслеживаем их процент в причинах отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-3532" y="-1542" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3187" y="-1508" width="281" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GCMBFEZ5am4deYwPofeO-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="GCMBFEZ5am4deYwPofeO-5" target="GCMBFEZ5am4deYwPofeO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCMBFEZ5am4deYwPofeO-5" value="&lt;b&gt;Берем показатели из СТО по расчёту ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-3525" y="-1469" width="281" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GCMBFEZ5am4deYwPofeO-6" value="&lt;b&gt;Отслеживаем их процент в причинах отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-3187" y="-1469" width="281" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GCMBFEZ5am4deYwPofeO-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="GCMBFEZ5am4deYwPofeO-7" target="GCMBFEZ5am4deYwPofeO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCMBFEZ5am4deYwPofeO-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="GCMBFEZ5am4deYwPofeO-7" target="GCMBFEZ5am4deYwPofeO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GCMBFEZ5am4deYwPofeO-7" value="&lt;b&gt;Опеределяем процент износовых причин отказов&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-3913" y="-1489" width="337" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
