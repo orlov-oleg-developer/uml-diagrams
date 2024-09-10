@@ -1174,168 +1174,168 @@
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3882" y="-1371" as="sourcePoint" />
-            <mxPoint x="-3882" y="-1543" as="targetPoint" />
+            <mxPoint x="-3882" y="-1344" as="sourcePoint" />
+            <mxPoint x="-3882" y="-1516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3881" y="-1371" as="sourcePoint" />
-            <mxPoint x="-3683" y="-1373" as="targetPoint" />
+            <mxPoint x="-3881" y="-1344" as="sourcePoint" />
+            <mxPoint x="-3683" y="-1346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-16" value="Старение&lt;br&gt;изоляции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3986" y="-1552" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3986" y="-1525" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-17" value="Срок службы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3682" y="-1365" width="82" height="30" as="geometry" />
+          <mxGeometry x="-3682" y="-1338" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3858" y="-1433" as="sourcePoint" />
-            <mxPoint x="-3710" y="-1490" as="targetPoint" />
+            <mxPoint x="-3858" y="-1406" as="sourcePoint" />
+            <mxPoint x="-3710" y="-1463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-19" value="ААБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3821" y="-1552" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3821" y="-1525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3502" y="-1371" as="sourcePoint" />
-            <mxPoint x="-3502" y="-1543" as="targetPoint" />
+            <mxPoint x="-3502" y="-1344" as="sourcePoint" />
+            <mxPoint x="-3502" y="-1516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3501" y="-1371" as="sourcePoint" />
-            <mxPoint x="-3303" y="-1373" as="targetPoint" />
+            <mxPoint x="-3501" y="-1344" as="sourcePoint" />
+            <mxPoint x="-3303" y="-1346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-22" value="Старение&lt;br&gt;изоляции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3606" y="-1552" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3606" y="-1525" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-23" value="Срок службы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3302" y="-1365" width="82" height="30" as="geometry" />
+          <mxGeometry x="-3302" y="-1338" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3478" y="-1433" as="sourcePoint" />
-            <mxPoint x="-3331" y="-1505" as="targetPoint" />
+            <mxPoint x="-3478" y="-1406" as="sourcePoint" />
+            <mxPoint x="-3331" y="-1478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-25" value="АСБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3441" y="-1552" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3441" y="-1525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3135.5" y="-1371" as="sourcePoint" />
-            <mxPoint x="-3135.5" y="-1543" as="targetPoint" />
+            <mxPoint x="-3135.5" y="-1344" as="sourcePoint" />
+            <mxPoint x="-3135.5" y="-1516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3134.5" y="-1371" as="sourcePoint" />
-            <mxPoint x="-2936.5" y="-1373" as="targetPoint" />
+            <mxPoint x="-3134.5" y="-1344" as="sourcePoint" />
+            <mxPoint x="-2936.5" y="-1346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-28" value="Старение&lt;br&gt;изоляции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3239.5" y="-1552" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3239.5" y="-1525" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-29" value="Срок службы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2935.5" y="-1365" width="82" height="30" as="geometry" />
+          <mxGeometry x="-2935.5" y="-1338" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3111.5" y="-1433" as="sourcePoint" />
-            <mxPoint x="-2962" y="-1492" as="targetPoint" />
+            <mxPoint x="-3111.5" y="-1406" as="sourcePoint" />
+            <mxPoint x="-2962" y="-1465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-31" value="СБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3074.5" y="-1552" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3074.5" y="-1525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Накопительный эффект&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3785" y="-1738" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3882" y="-1091" as="sourcePoint" />
-            <mxPoint x="-3882" y="-1263" as="targetPoint" />
+            <mxPoint x="-3882" y="-1064" as="sourcePoint" />
+            <mxPoint x="-3882" y="-1236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3881" y="-1091" as="sourcePoint" />
-            <mxPoint x="-3683" y="-1093" as="targetPoint" />
+            <mxPoint x="-3881" y="-1064" as="sourcePoint" />
+            <mxPoint x="-3683" y="-1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-3" value="Старение&lt;br&gt;изоляции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3986" y="-1272" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3986" y="-1245" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-4" value="ИТС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3682" y="-1085" width="82" height="30" as="geometry" />
+          <mxGeometry x="-3682" y="-1058" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3858" y="-1153" as="sourcePoint" />
-            <mxPoint x="-3710" y="-1210" as="targetPoint" />
+            <mxPoint x="-3858" y="-1126" as="sourcePoint" />
+            <mxPoint x="-3710" y="-1183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-6" value="ААБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3821" y="-1272" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3821" y="-1245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3502" y="-1091" as="sourcePoint" />
-            <mxPoint x="-3502" y="-1263" as="targetPoint" />
+            <mxPoint x="-3502" y="-1064" as="sourcePoint" />
+            <mxPoint x="-3502" y="-1236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3501" y="-1091" as="sourcePoint" />
-            <mxPoint x="-3303" y="-1093" as="targetPoint" />
+            <mxPoint x="-3501" y="-1064" as="sourcePoint" />
+            <mxPoint x="-3303" y="-1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-9" value="Старение&lt;br&gt;изоляции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3606" y="-1272" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3606" y="-1245" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-10" value="ИТС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3302" y="-1085" width="82" height="30" as="geometry" />
+          <mxGeometry x="-3302" y="-1058" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3478" y="-1153" as="sourcePoint" />
-            <mxPoint x="-3331" y="-1225" as="targetPoint" />
+            <mxPoint x="-3478" y="-1126" as="sourcePoint" />
+            <mxPoint x="-3331" y="-1198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-12" value="АСБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3441" y="-1272" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3441" y="-1245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3135.5" y="-1091" as="sourcePoint" />
-            <mxPoint x="-3135.5" y="-1263" as="targetPoint" />
+            <mxPoint x="-3135.5" y="-1064" as="sourcePoint" />
+            <mxPoint x="-3135.5" y="-1236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3134.5" y="-1091" as="sourcePoint" />
-            <mxPoint x="-2936.5" y="-1093" as="targetPoint" />
+            <mxPoint x="-3134.5" y="-1064" as="sourcePoint" />
+            <mxPoint x="-2936.5" y="-1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-15" value="Старение&lt;br&gt;изоляции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-3239.5" y="-1272" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3239.5" y="-1245" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-16" value="ИТС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2935.5" y="-1085" width="82" height="30" as="geometry" />
+          <mxGeometry x="-2935.5" y="-1058" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3111.5" y="-1153" as="sourcePoint" />
-            <mxPoint x="-2962" y="-1212" as="targetPoint" />
+            <mxPoint x="-3111.5" y="-1126" as="sourcePoint" />
+            <mxPoint x="-2962" y="-1185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXOv8ILLXjALGkFqrzfO-18" value="СБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3074.5" y="-1272" width="60" height="30" as="geometry" />
+          <mxGeometry x="-3074.5" y="-1245" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
