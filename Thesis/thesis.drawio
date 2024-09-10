@@ -1439,8 +1439,11 @@
         <mxCell id="4b0atgJo9KpA79zSJ4vE-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Вероятность отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3592" y="-1830" width="212" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4b0atgJo9KpA79zSJ4vE-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ЗАЧЕМ Я ДЕЛАЮ ВСЕ ЭТИ ДИАГРАММЫ???&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="4b0atgJo9KpA79zSJ4vE-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ЗАЧЕМ Я ДЕЛАЮ ВСЕ ЭТИ ДИАГРАММЫ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3890" y="-1651" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4b0atgJo9KpA79zSJ4vE-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Чтобы увидеть свзязь между фактической аварийностью и ИТС&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3457" y="-1661" width="380" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
