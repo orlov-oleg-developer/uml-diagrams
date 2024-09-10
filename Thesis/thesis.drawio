@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="5434" dy="2791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6193" dy="2989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -967,7 +967,7 @@
           <mxGeometry x="-1416" y="-1984" width="209" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aUIz78P-kiw5no-S_cTd-33" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ГИПОТЕЗЫ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-3896" y="-1357" width="380" height="30" as="geometry" />
+          <mxGeometry x="-3896" y="-1207" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TOaZEp1QZN80jB4CPrf7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TOaZEp1QZN80jB4CPrf7-1" target="aUIz78P-kiw5no-S_cTd-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1036,24 +1036,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-14" value="&lt;b&gt;Расчёт вероятности отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3441" y="-1165" width="236" height="28" as="geometry" />
+          <mxGeometry x="-3441" y="-1015" width="236" height="28" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jbTsR32mNDFLvDjCu_NW-17" target="CecCu5lrpZ6SjUf9zV9F-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-17" value="&lt;b&gt;На основе ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3134" y="-1241.5" width="161" height="27" as="geometry" />
+          <mxGeometry x="-3134" y="-1091.5" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-20" target="jbTsR32mNDFLvDjCu_NW-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-20" target="jbTsR32mNDFLvDjCu_NW-35" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2901" y="-1038" as="targetPoint" />
+            <mxPoint x="-2901" y="-888" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-20" value="&lt;b&gt;На основе статистики&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3138" y="-1090" width="161" height="28" as="geometry" />
+          <mxGeometry x="-3138" y="-940" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-24" target="jbTsR32mNDFLvDjCu_NW-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1065,37 +1065,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-24" value="&lt;b&gt;В СУПА на список влияют&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3896" y="-1165" width="182" height="28" as="geometry" />
+          <mxGeometry x="-3896" y="-1015" width="182" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-25" value="&lt;b&gt;ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3657" y="-1201" width="161" height="27" as="geometry" />
+          <mxGeometry x="-3657" y="-1051" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="jbTsR32mNDFLvDjCu_NW-27" target="jbTsR32mNDFLvDjCu_NW-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-27" value="&lt;b&gt;Вероятность отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3657" y="-1164" width="161" height="27" as="geometry" />
+          <mxGeometry x="-3657" y="-1014" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-28" value="&lt;b&gt;Последствия отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3657" y="-1124" width="161" height="27" as="geometry" />
+          <mxGeometry x="-3657" y="-974" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-29" value="&lt;b&gt;Для какого типа оборудования&lt;/b&gt;&lt;div&gt;&lt;b&gt;какой вид отключений&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;имеет большее значение&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-3105" y="-256" width="240" height="57" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-31" value="&lt;b&gt;Внезапные отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2365" y="-1279" width="161" height="27" as="geometry" />
+          <mxGeometry x="-2365" y="-1129" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-33" value="&lt;b&gt;Износовые отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3134" y="-1202" width="161" height="28" as="geometry" />
+          <mxGeometry x="-3134" y="-1052" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-34" value="&lt;b&gt;Внезапные отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2898" y="-1124" width="161" height="27" as="geometry" />
+          <mxGeometry x="-2898" y="-974" width="161" height="27" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-35" value="&lt;b&gt;Износовые отключения&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2901" y="-1061" width="161" height="28" as="geometry" />
+          <mxGeometry x="-2901" y="-911" width="161" height="28" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-37" value="&lt;b&gt;Снижение ИТС ведет к росту вероятности отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2139" y="-1249" width="161" height="42" as="geometry" />
+          <mxGeometry x="-2139" y="-1099" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-41" value="&lt;b&gt;Для какого филиала&lt;/b&gt;&lt;div&gt;&lt;b&gt;какой вид отключений&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;имеет большее значение&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-3105" y="-325" width="240" height="57" as="geometry" />
@@ -1344,16 +1344,16 @@
           <mxGeometry x="-1505" y="260" width="86" height="28" as="geometry" />
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-1" value="&lt;b&gt;Идеи&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3896" y="-1003" width="161" height="42" as="geometry" />
+          <mxGeometry x="-3740" y="-738.5" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-2" value="&lt;b&gt;Для какого оборудования какого вида отключения больше&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3881" y="-725" width="216" height="42" as="geometry" />
+          <mxGeometry x="-3881" y="-575" width="216" height="42" as="geometry" />
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-3" value="&lt;b&gt;Взаимосвязаны ли внезаные и износсовые отключения?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3881" y="-656" width="216" height="42" as="geometry" />
+          <mxGeometry x="-3881" y="-506" width="216" height="42" as="geometry" />
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-4" value="&lt;b&gt;Влияет ли срок службы на рост внезапных отключений?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3594" y="-703" width="216" height="42" as="geometry" />
+          <mxGeometry x="-3594" y="-553" width="216" height="42" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="CecCu5lrpZ6SjUf9zV9F-1" target="CecCu5lrpZ6SjUf9zV9F-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1365,55 +1365,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-1" value="&lt;b&gt;В каких случая достаточно?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2945" y="-1242" width="236" height="28" as="geometry" />
+          <mxGeometry x="-2945" y="-1092" width="236" height="28" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-3" value="&lt;b&gt;Зависит от района&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2656" y="-1283" width="205" height="28" as="geometry" />
+          <mxGeometry x="-2656" y="-1133" width="205" height="28" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-4" value="&lt;b&gt;Зависит от оборудования&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2656" y="-1242.5" width="205" height="28" as="geometry" />
+          <mxGeometry x="-2656" y="-1092.5" width="205" height="28" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-7" value="&lt;b&gt;Зависит от ...&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-2656" y="-1202" width="205" height="28" as="geometry" />
+          <mxGeometry x="-2656" y="-1052" width="205" height="28" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="GCMBFEZ5am4deYwPofeO-1" target="GCMBFEZ5am4deYwPofeO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-1" value="&lt;b&gt;Берем ресурсопределяющие показатели&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3525" y="-881" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3525" y="-731" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-2" value="&lt;b&gt;Отслеживаем их процент в причинах отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3187" y="-881" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3187" y="-731" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="GCMBFEZ5am4deYwPofeO-5" target="GCMBFEZ5am4deYwPofeO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-5" value="&lt;b&gt;Берем показатели из СТО по расчёту ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3525" y="-842" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3525" y="-692" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-6" value="&lt;b&gt;Отслеживаем их процент в причинах отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3187" y="-842" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3187" y="-692" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="GCMBFEZ5am4deYwPofeO-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3576" y="-867.5" as="sourcePoint" />
+            <mxPoint x="-3576" y="-717.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="GCMBFEZ5am4deYwPofeO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3576" y="-867.5" as="sourcePoint" />
+            <mxPoint x="-3576" y="-717.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="GCMBFEZ5am4deYwPofeO-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3576" y="-867.5" as="sourcePoint" />
+            <mxPoint x="-3576" y="-717.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-7" value="&lt;b&gt;Опеределяем процент износовых причин отказов&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3896" y="-1294" width="337" height="27" as="geometry" />
+          <mxGeometry x="-3896" y="-1144" width="337" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-11" value="&lt;b&gt;Разведочный анализ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3525" y="-926" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3525" y="-776" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Математическая модель расчёта вероятности отказа с целью выявления риска отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-3896" y="-1978" width="875" height="30" as="geometry" />
@@ -1434,7 +1434,7 @@
           <mxGeometry x="-3890" y="-1860" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Сведения о единице об.&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3891" y="-1738" width="210" height="30" as="geometry" />
+          <mxGeometry x="-4001" y="-1738" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Вероятность отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3592" y="-1830" width="212" height="30" as="geometry" />
@@ -1469,7 +1469,7 @@
         <mxCell id="4b0atgJo9KpA79zSJ4vE-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3858" y="-1487" as="sourcePoint" />
-            <mxPoint x="-3706" y="-1489" as="targetPoint" />
+            <mxPoint x="-3710" y="-1544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-19" value="ААБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1496,7 +1496,7 @@
         <mxCell id="4b0atgJo9KpA79zSJ4vE-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3478" y="-1487" as="sourcePoint" />
-            <mxPoint x="-3326" y="-1489" as="targetPoint" />
+            <mxPoint x="-3331" y="-1559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-25" value="АСБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1523,11 +1523,14 @@
         <mxCell id="4b0atgJo9KpA79zSJ4vE-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3111.5" y="-1487" as="sourcePoint" />
-            <mxPoint x="-2959.5" y="-1489" as="targetPoint" />
+            <mxPoint x="-2962" y="-1546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-31" value="СБ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3074.5" y="-1606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4b0atgJo9KpA79zSJ4vE-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Накопительный эффект&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-3785" y="-1738" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
