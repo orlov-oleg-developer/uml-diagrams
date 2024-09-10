@@ -1410,7 +1410,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-7" value="&lt;b&gt;Опеределяем процент износовых причин отказов&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3913" y="-1489" width="337" height="27" as="geometry" />
+          <mxGeometry x="-3896" y="-1592" width="337" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-11" value="&lt;b&gt;Разведочный анализ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-3525" y="-1224" width="281" height="27" as="geometry" />
