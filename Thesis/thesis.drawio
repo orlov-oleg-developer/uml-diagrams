@@ -591,7 +591,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Условия эксплуатации&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-3575" y="-1297" width="197" height="30" as="geometry" />
+          <mxGeometry x="-3575" y="-1292" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-49" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Что влияет на вероятность отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4053" y="-1638" width="521" height="34" as="geometry" />
@@ -609,7 +609,7 @@
           <mxGeometry x="-3303.5" y="-1267" width="387" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Можно оценить через причины отказа и список деффектов&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-2819" y="-1297" width="501" height="30" as="geometry" />
+          <mxGeometry x="-2819" y="-1292" width="501" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="eOQJApLFsSs86w0yiT4I-9" target="eOQJApLFsSs86w0yiT4I-11">
           <mxGeometry relative="1" as="geometry" />
