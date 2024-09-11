@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.12" pages="8">
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="5834" dy="2791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5834" dy="3191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
           <mxGeometry x="-3525" y="-73" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Математическая модель расчёта вероятности отказа с целью выявления риска отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-3896" y="-1978" width="875" height="30" as="geometry" />
+          <mxGeometry x="-3896" y="-2113" width="875" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="4b0atgJo9KpA79zSJ4vE-2" target="4b0atgJo9KpA79zSJ4vE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -290,6 +290,9 @@
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Сведения о единице об.&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-4001" y="-1738" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F-owYh8qWCo672iBu6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4b0atgJo9KpA79zSJ4vE-6" target="-4F-owYh8qWCo672iBu6-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Вероятность отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-3592" y="-1830" width="212" height="30" as="geometry" />
@@ -482,6 +485,15 @@
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Может есть параметр, контролируя который мы сможем уменьшать появление других факторов?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3143" y="-1649" width="472" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F-owYh8qWCo672iBu6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="-4F-owYh8qWCo672iBu6-8" target="-4F-owYh8qWCo672iBu6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F-owYh8qWCo672iBu6-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Последствия отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3594" y="-1986" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F-owYh8qWCo672iBu6-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Риск отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-3307" y="-1911" width="212" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
