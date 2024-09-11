@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.12" pages="8">
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="5704" dy="3119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5909" dy="3233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,7 +591,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Условия эксплуатации&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-3575" y="-1292" width="197" height="30" as="geometry" />
+          <mxGeometry x="-3575" y="-1297" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-49" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Что влияет на вероятность отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-4053" y="-1638" width="521" height="34" as="geometry" />
@@ -600,16 +600,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Скорость формирования деффектов&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-3320" y="-1316" width="322" height="30" as="geometry" />
+          <mxGeometry x="-3304" y="-1316" width="388" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="eOQJApLFsSs86w0yiT4I-2" target="eOQJApLFsSs86w0yiT4I-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Количество случ. событ., приводящих к отказу&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-3320" y="-1267" width="387" height="30" as="geometry" />
+          <mxGeometry x="-3303.5" y="-1267" width="387" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Можно оценить через причины отказа и список деффектов&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-2781" y="-1297" width="501" height="30" as="geometry" />
+          <mxGeometry x="-2819" y="-1297" width="501" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eOQJApLFsSs86w0yiT4I-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="eOQJApLFsSs86w0yiT4I-9" target="eOQJApLFsSs86w0yiT4I-11">
           <mxGeometry relative="1" as="geometry" />
