@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.12" pages="8">
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="5547" dy="2633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5834" dy="2791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -480,7 +480,7 @@
         <mxCell id="-4F-owYh8qWCo672iBu6-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Все ли причины отказа кабелей можно контролировать?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-3548" y="-1649" width="279" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="-4F-owYh8qWCo672iBu6-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Может есть параметр, контролирую который мы сможем уменьшать появление других факторов?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-4F-owYh8qWCo672iBu6-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Может есть параметр, контролируя который мы сможем уменьшать появление других факторов?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3143" y="-1649" width="472" height="42" as="geometry" />
         </mxCell>
       </root>
