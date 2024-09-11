@@ -501,8 +501,14 @@
         <mxCell id="-4F-owYh8qWCo672iBu6-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Значения ИТС по оборудованию&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;редко указываются ниже 50-60&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3892" y="-1546" width="279" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="-4F-owYh8qWCo672iBu6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-4F-owYh8qWCo672iBu6-13" target="-4F-owYh8qWCo672iBu6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;А что если уточнять ИТС через причины отказов, которые встречаются на элементе при определённых условиях эксплуатации&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-3548" y="-1558" width="562" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-4F-owYh8qWCo672iBu6-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Тогда нужно понять какие дефекты к каким последствиям приводят&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2910" y="-1558" width="562" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
