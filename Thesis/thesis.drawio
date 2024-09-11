@@ -270,7 +270,7 @@
         <mxCell id="GCMBFEZ5am4deYwPofeO-11" value="&lt;b&gt;Разведочный анализ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="-3525" y="-73" width="281" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="4b0atgJo9KpA79zSJ4vE-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Математическая модель расчёта вероятности отказа с целью выявления риска отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="4b0atgJo9KpA79zSJ4vE-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Математическая модель расчёта риска отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-3896" y="-2113" width="875" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="4b0atgJo9KpA79zSJ4vE-2" target="4b0atgJo9KpA79zSJ4vE-6" edge="1">
