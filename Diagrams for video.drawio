@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Перерисовки" id="aHLp7eU2ZAAW9AkC9iS3">
-    <mxGraphModel dx="1195" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,8 +83,23 @@
         <mxCell id="n97WEuA_4rRA8sXiVIRi-24" value="Как это влияет на перерисовки?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1200" y="450" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="n97WEuA_4rRA8sXiVIRi-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="n97WEuA_4rRA8sXiVIRi-28" target="n97WEuA_4rRA8sXiVIRi-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n97WEuA_4rRA8sXiVIRi-28" value="ТЕОРИЯ | Рендеринг и перерисовки в браузере" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1420" y="380" width="160" height="40" as="geometry" />
+          <mxGeometry x="1390" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n97WEuA_4rRA8sXiVIRi-30" value="Жизненный цикл компонента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1800" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n97WEuA_4rRA8sXiVIRi-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="n97WEuA_4rRA8sXiVIRi-31" target="n97WEuA_4rRA8sXiVIRi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n97WEuA_4rRA8sXiVIRi-31" value="Как мне это использовать в React?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1590" y="450" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n97WEuA_4rRA8sXiVIRi-34" value="Пример с логами на разных этапах отрисовки компонента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1785" y="500" width="195" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
