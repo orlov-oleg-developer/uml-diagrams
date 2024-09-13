@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.13" pages="8">
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="6087" dy="3331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8497" dy="4660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,12 +191,6 @@
         </mxCell>
         <mxCell id="jbTsR32mNDFLvDjCu_NW-37" value="&lt;b&gt;Снижение ИТС ведет к росту вероятности отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="-2139" y="292" width="161" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="gf6Rv4q0wkD_2CnlrVOx-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2032" y="456" as="sourcePoint" />
-            <mxPoint x="-604" y="455" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-1" value="&lt;b&gt;Идеи&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-3740" y="652.5" width="161" height="42" as="geometry" />
