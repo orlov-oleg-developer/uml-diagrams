@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.12" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.13" pages="8">
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
     <mxGraphModel dx="6087" dy="3331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-25" value="Ресурс" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-4001" y="-1591" width="84" height="30" as="geometry" />
+          <mxGeometry x="-3995" y="-1593" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4F-owYh8qWCo672iBu6-26" value="Срок службы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-3697" y="-1404" width="82" height="30" as="geometry" />
