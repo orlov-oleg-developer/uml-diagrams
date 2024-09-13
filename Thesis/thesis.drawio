@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.13" pages="8">
   <diagram id="37vTCWsIZeqJmCM1zeK8" name="Algorithm">
-    <mxGraphModel dx="8497" dy="4660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7007" dy="3838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,16 +193,10 @@
           <mxGeometry x="-2139" y="292" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-1" value="&lt;b&gt;Идеи&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3740" y="652.5" width="161" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="I4a8CQEia8JZRKizLkA4-2" value="&lt;b&gt;Для какого оборудования какого вида отключения больше&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3881" y="816" width="216" height="42" as="geometry" />
+          <mxGeometry x="-3902" y="570.5" width="161" height="42" as="geometry" />
         </mxCell>
         <mxCell id="I4a8CQEia8JZRKizLkA4-3" value="&lt;b&gt;Взаимосвязаны ли внезаные и износсовые отключения?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3881" y="885" width="216" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="I4a8CQEia8JZRKizLkA4-4" value="&lt;b&gt;Влияет ли срок службы на рост внезапных отключений?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-3594" y="838" width="216" height="42" as="geometry" />
+          <mxGeometry x="-3864" y="-752" width="216" height="42" as="geometry" />
         </mxCell>
         <mxCell id="CecCu5lrpZ6SjUf9zV9F-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="CecCu5lrpZ6SjUf9zV9F-1" target="CecCu5lrpZ6SjUf9zV9F-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,40 +223,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-1" value="&lt;b&gt;Берем ресурсопределяющие показатели&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3525" y="660" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3687" y="578" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-2" value="&lt;b&gt;Отслеживаем их процент в причинах отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3187" y="660" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3349" y="578" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="GCMBFEZ5am4deYwPofeO-5" target="GCMBFEZ5am4deYwPofeO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-5" value="&lt;b&gt;Берем показатели из СТО по расчёту ИТС&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3525" y="699" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3687" y="617" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-6" value="&lt;b&gt;Отслеживаем их процент в причинах отказа&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3187" y="699" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3349" y="617" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="GCMBFEZ5am4deYwPofeO-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3576" y="673.5" as="sourcePoint" />
+            <mxPoint x="-3738" y="591.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="GCMBFEZ5am4deYwPofeO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3576" y="673.5" as="sourcePoint" />
+            <mxPoint x="-3738" y="591.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" target="GCMBFEZ5am4deYwPofeO-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3576" y="673.5" as="sourcePoint" />
+            <mxPoint x="-3738" y="591.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-7" value="&lt;b&gt;Опеределяем процент износовых причин отказов&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
           <mxGeometry x="-3896" y="247" width="337" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GCMBFEZ5am4deYwPofeO-11" value="&lt;b&gt;Разведочный анализ&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3525" y="615" width="281" height="27" as="geometry" />
+          <mxGeometry x="-3687" y="533" width="281" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4b0atgJo9KpA79zSJ4vE-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Математическая модель расчёта риска отказа оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-3960" y="-2064" width="651" height="33" as="geometry" />
