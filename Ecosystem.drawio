@@ -1,41 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="jBkVt-Optu0iYYhwJYWD">
-    <mxGraphModel dx="1389" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VgXSm631Y45OZsN6ZZmT-1" value="Подкаст" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="64" y="259" width="120" height="27" as="geometry" />
+          <mxGeometry x="-44" y="250" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-2" value="Образовательные Ролики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="242" y="259" width="120" height="32" as="geometry" />
+          <mxGeometry x="134" y="250" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-3" value="Курсы по разработке конкретной идеи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="395" y="259" width="145" height="34" as="geometry" />
+          <mxGeometry x="287" y="250" width="145" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-4" value="Желания интересной разработки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="347" width="145" height="34" as="geometry" />
+          <mxGeometry x="207.5" y="316" width="145" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-5" value="Общая база пользователей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="357" y="347" width="221" height="34" as="geometry" />
+          <mxGeometry x="374.5" y="316" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-6" value="Стримы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="352" width="221" height="34" as="geometry" />
+          <mxGeometry x="-32.5" y="321" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-7" value="Марафоны" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="253" y="410" width="221" height="34" as="geometry" />
+          <mxGeometry x="270.5" y="379" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-8" value="Мнеторство 1 на 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="614" y="291" width="221" height="34" as="geometry" />
+          <mxGeometry x="456" y="249" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-9" value="Frontend сообщество" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="466" y="182" width="221" height="34" as="geometry" />
+          <mxGeometry x="415" y="182" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-10" value="Совместная разработка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="162" y="182" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-11" value="Позиционирование" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="315" y="124" width="221" height="34" as="geometry" />
+          <mxGeometry x="306" y="124" width="221" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-12" value="Платформа продуктивности" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="379" width="221" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-13" value="Платформа продуктивности" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-21.5" y="385" width="221" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-14" value="Разработчики не должны протухнуть" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="23" y="124" width="221" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-15" value="Удобные инструменты &lt;br&gt;для разработчиков" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="182" width="177" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
