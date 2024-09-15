@@ -1,23 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="jBkVt-Optu0iYYhwJYWD">
-    <mxGraphModel dx="1704" dy="1119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="1279" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VgXSm631Y45OZsN6ZZmT-1" value="Подкаст" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-44" y="250" width="120" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="VgXSm631Y45OZsN6ZZmT-2" value="Образовательные Ролики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="134" y="250" width="120" height="32" as="geometry" />
+          <mxGeometry x="21" y="17" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-3" value="Курсы по разработке конкретной идеи" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="287" y="250" width="145" height="34" as="geometry" />
+          <mxGeometry x="157" y="250" width="275" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-4" value="Желания интересной разработки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="316" width="145" height="34" as="geometry" />
+          <mxGeometry x="667" y="316" width="219" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-5" value="Общая база пользователей" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="374.5" y="316" width="221" height="34" as="geometry" />
+          <mxGeometry x="160" y="-227" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-6" value="Стримы" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-32.5" y="321" width="221" height="34" as="geometry" />
@@ -26,7 +23,7 @@
           <mxGeometry x="270.5" y="379" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-8" value="Менторство 1 на 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="456" y="249" width="221" height="34" as="geometry" />
+          <mxGeometry x="456" y="249" width="189" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-9" value="Frontend сообщество" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="415" y="182" width="221" height="34" as="geometry" />
@@ -49,9 +46,6 @@
         <mxCell id="VgXSm631Y45OZsN6ZZmT-11" value="Позиционирование" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="543" y="-80" width="196" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="VgXSm631Y45OZsN6ZZmT-12" value="Платформа продуктивности" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="379" width="221" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-13" value="Платформа продуктивности" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-21.5" y="385" width="221" height="34" as="geometry" />
         </mxCell>
@@ -62,12 +56,12 @@
           <mxGeometry x="-36" y="182" width="177" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-17" value="Пробую себя в новых технологиях" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="483" y="118" width="221" height="34" as="geometry" />
+          <mxGeometry x="648" y="185" width="221" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="VgXSm631Y45OZsN6ZZmT-18" value="Стримы &quot;Развиваемся вместе&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-18" value="Стримы &quot;Развиваемся вместе&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="791" y="-1" width="196" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="VgXSm631Y45OZsN6ZZmT-20" value="Утренние сторис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-20" value="Утренние сторис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="-1" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-23" value="Короткие видео" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -87,6 +81,9 @@
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-30" value="Дисциплина" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="823.75" y="39" width="130.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-31" value="Марафон по разработке" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="82" y="61" width="163" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
