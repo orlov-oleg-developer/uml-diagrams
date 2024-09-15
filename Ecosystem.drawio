@@ -44,7 +44,7 @@
           <mxGeometry x="-21.5" y="385" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-14" value="Разработчики не должны протухнуть" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="23" y="124" width="221" height="34" as="geometry" />
+          <mxGeometry x="33" y="124" width="221" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-15" value="Удобные инструменты &lt;br&gt;для разработчиков" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-36" y="182" width="177" height="34" as="geometry" />
