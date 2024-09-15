@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="jBkVt-Optu0iYYhwJYWD">
-    <mxGraphModel dx="1600" dy="1488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="1459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,22 +86,37 @@
           <mxGeometry x="375" y="-295" width="163" height="27" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-33" value="Instagramm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-57" y="-54" width="130.5" height="34" as="geometry" />
+          <mxGeometry x="-57" y="-21" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-34" value="YouTube" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="99.25" y="-54" width="130.5" height="34" as="geometry" />
+          <mxGeometry x="99.25" y="-21" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-35" value="Inst + Yt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-54" width="130.5" height="34" as="geometry" />
+          <mxGeometry x="255" y="-21" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-36" value="Twitch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="430.75" y="-54" width="130.5" height="34" as="geometry" />
+          <mxGeometry x="430.75" y="-21" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-37" value="Кругозор" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="606.75" y="-99" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="VgXSm631Y45OZsN6ZZmT-38" value="Яндекс музыка" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="606.75" y="-54" width="130.5" height="34" as="geometry" />
+          <mxGeometry x="606.75" y="-21" width="130.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-40" value="Рабочие дни" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="-60" width="130.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-41" value="1 в 2 недели" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="99.25" y="-60" width="130.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-42" value="1 в неделю" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-60" width="130.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-43" value="вт, чт" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430.75" y="-60" width="130.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VgXSm631Y45OZsN6ZZmT-44" value="1 в месяц" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="606.75" y="-60" width="130.5" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
