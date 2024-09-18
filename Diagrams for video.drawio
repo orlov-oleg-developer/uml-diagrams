@@ -182,8 +182,14 @@
         <mxCell id="-U-W_PFx-SHWLZu403n4-5" value="&lt;b&gt;flowSlice.ts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="312" width="126" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-U-W_PFx-SHWLZu403n4-6" target="-U-W_PFx-SHWLZu403n4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-U-W_PFx-SHWLZu403n4-6" value="&lt;b&gt;state.currentState = state.history[state.step];&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="479" width="301" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-8" value="&lt;b&gt;state.step - = 1;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326" y="555" width="169" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
