@@ -1020,7 +1020,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vtats2FonhxsYVjQzSVA" name="Сатья АС">
-    <mxGraphModel dx="924" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="770" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1060,17 +1060,26 @@
         <mxCell id="WIXa9OHTDN485UbQnd_8-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="WIXa9OHTDN485UbQnd_8-19" target="WIXa9OHTDN485UbQnd_8-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIXa9OHTDN485UbQnd_8-19" value="статистическая обработка аварийных журналов" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+        <mxCell id="WIXa9OHTDN485UbQnd_8-19" value="статистическая обработка аварийных журналов" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="891" y="89" width="163" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WIXa9OHTDN485UbQnd_8-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="WIXa9OHTDN485UbQnd_8-21" target="WIXa9OHTDN485UbQnd_8-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIXa9OHTDN485UbQnd_8-21" value="результаты лабораторных испытаний" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+        <mxCell id="WIXa9OHTDN485UbQnd_8-21" value="результаты лабораторных испытаний" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="891" y="147" width="163" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WIXa9OHTDN485UbQnd_8-23" value="Вероятность отказа&lt;div&gt;выборки&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+        <mxCell id="WIXa9OHTDN485UbQnd_8-23" value="Вероятность отказа&lt;div&gt;выборки&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="1111" y="117.5" width="163" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WIXa9OHTDN485UbQnd_8-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="WIXa9OHTDN485UbQnd_8-26" target="WIXa9OHTDN485UbQnd_8-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIXa9OHTDN485UbQnd_8-26" value="Вероятность отказа&lt;div&gt;единицы оборудования&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="211" width="163" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WIXa9OHTDN485UbQnd_8-27" value="ИТС" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="217.75" width="73" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
