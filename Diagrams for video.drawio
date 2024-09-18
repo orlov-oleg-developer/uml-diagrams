@@ -160,10 +160,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n_FFRo1vG7BMqN9z0_t3" name="Дебаг">
-    <mxGraphModel dx="1674" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-U-W_PFx-SHWLZu403n4-1" value="&lt;b&gt;MainPage.tsx&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="312" width="126" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-U-W_PFx-SHWLZu403n4-2" target="-U-W_PFx-SHWLZu403n4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-2" value="&lt;b&gt;onUndo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="399" width="126" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-U-W_PFx-SHWLZu403n4-3" target="-U-W_PFx-SHWLZu403n4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-3" value="&lt;b&gt;dispatch(flowActions.undo());&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-72" y="479" width="220" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-5" value="&lt;b&gt;flowSlice.ts&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="312" width="126" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-U-W_PFx-SHWLZu403n4-6" value="&lt;b&gt;state.currentState = state.history[state.step];&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="479" width="301" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
