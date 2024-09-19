@@ -1138,8 +1138,20 @@
         <mxCell id="aLsbvCKbEMXF7FAqJiyW-8" value="Минэнерго РФ №676" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="773.5" y="460" width="73" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="aLsbvCKbEMXF7FAqJiyW-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aLsbvCKbEMXF7FAqJiyW-9" target="aLsbvCKbEMXF7FAqJiyW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLsbvCKbEMXF7FAqJiyW-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aLsbvCKbEMXF7FAqJiyW-9" target="aLsbvCKbEMXF7FAqJiyW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aLsbvCKbEMXF7FAqJiyW-9" value="не учитывает фактическую статистику отказов" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="1290" y="410.5" width="178" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aLsbvCKbEMXF7FAqJiyW-13" value="вида оборудования&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="498" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aLsbvCKbEMXF7FAqJiyW-15" value="условия экспл." style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="498" width="124" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
