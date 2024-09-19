@@ -1159,8 +1159,16 @@
         <mxCell id="aLsbvCKbEMXF7FAqJiyW-17" value="вероятность отказа, рассчитанная в соответствии с методикой [5], превышает статистические значения более, чем на порядок" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
           <mxGeometry x="1544" y="402.37" width="279" height="60.75" as="geometry" />
         </mxCell>
+        <mxCell id="aLsbvCKbEMXF7FAqJiyW-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="aLsbvCKbEMXF7FAqJiyW-21" target="aLsbvCKbEMXF7FAqJiyW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2118.9999999999995" y="432.7450000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aLsbvCKbEMXF7FAqJiyW-21" value="&lt;div&gt;статья канадской&lt;/div&gt;&lt;div&gt;электросетевой компании Kinetrics&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="1865" y="412.62" width="212" height="40.25" as="geometry" />
+        </mxCell>
+        <mxCell id="aLsbvCKbEMXF7FAqJiyW-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAmCAIAAABrtXMBAAAD00lEQVRoBe2aUbbjIAiGXVcWlPW4GjfjYjoHEBUFtdOM7ZzjfamJCL8fRG163ev87SXg9oY70V6H+O4iOMQP8d0Edsc7NX6I7yawO96p8UN8N4Hd8RZqPIb7cs656w571MXgFyLG4P0mQX897ei9j83oGfHokTYQd+7qhjfeHriM4XbuDvH1gtBWxOhvNf9CLomu7MD1u3+NAqyGKzO5bk9SbwNN6DrGxKO/UkQE0UR/gG/roqac0StGQyWo1aW8NYO5z10+RIxGzMCMElIyFP1dpZyfvOsOMdctP/+ujGoChrY0hsRFgkIdvnH71CVBHnqDIjCnl0YiOsOIngLMWPSiAFvg8JSxQXp2tERjlxHshU+q7BwSF1P/98Qn2kENmMgJCI10YQLPFZmAi32AoArnkXYK6qnKXcYsC4G8n67CLRUvE18oPzXg8k2al1ZF2QVoGBqgJQLvzejh8LCU952US7Vnwrt+ErLQutFW6hrxFFUUQO31wzYyKluaBiTVtwpLRteAQ3HjAkGRtHlowzgo7gkyyvoVOK4DrhAnmWoBrAeeWmKUWpocQUm3+9m6Iwe0YbcDA5qJ5sTomRY4hzU/0UNdQ1PidBi/vG+WoxIiqSo1qrTqkGVk3XoSeKkpWkr4aGFgtVPBU9NyVIsftNFFPX5MPEW8w9qWNQg868JIdl5ISC1cd1jb5aWETW3gNKwPTyNKAtnT+mctiEaNiFM80jHZkNcl6JYorJ9xNkYpg/5kmMmlpSSPh8b7wNOQT4j3wk3iJD4Ha3dcMZfPL1CYXcKzhCQBCfhdFu5KmQ3czkWCME91FUc0laAG8c5yQDzJUlbvcmuieQKckNgJ4UmSav08Q32qjm6y7I+fi1x3pYNboX9xwl35pCOFa8RTqdRvCvBW+gIWg59+66uiLjTRuwojDQYmo34yG0C1y5ipSixZNJeT2l2+k2Z70VDn1RPXM053U9Gq4UWsty5UYcIDWEyI5xcmiiHUCEhXCoWHKV2sIL06xTcxfC922zL3VJ/IrGPVEKeUapNLokE1H7Yq5x81QZkWsjgdEyfRZQkT3ypFqSB2fna7HlsFAs4vDJ3LB/wisW+B/4736xf+e2IOHL+Dj3PST/jLdwzev0AcKlQphQZYfHrvaPw/fDk4TDerysOBLXewNKaaHRyCxOjo/58ih7c45s9TXyGOCy9ooi/hgqx5MTsYmAM3d1g/T7GMrxCHExnsQ+k3K9Yy+wy3eKE9M/9GP/z4OjlYfIn4N2j8SMxDfHciDvFDfDeB3fFOjR/iuwnsjndq/BDfTWB3vD/q7ZKcj4/H+QAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="2122.9972413793103" y="413.7431034482758" width="123" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
