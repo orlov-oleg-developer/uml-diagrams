@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17" pages="10">
   <diagram id="4HNWkwHAUxZwj-c0eTxy" name="Формирование проблематики">
-    <mxGraphModel dx="4683" dy="3177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5185" dy="3435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,20 +40,32 @@
         <mxCell id="f9Gs9kiihaZqoKaJuMDG-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Риск отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2545" y="-2372" width="171" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="zQP5jHf0tZskvP_ZUdR0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="zQP5jHf0tZskvP_ZUdR0-2" target="zQP5jHf0tZskvP_ZUdR0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQP5jHf0tZskvP_ZUdR0-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zQP5jHf0tZskvP_ZUdR0-2" target="zQP5jHf0tZskvP_ZUdR0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQP5jHf0tZskvP_ZUdR0-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zQP5jHf0tZskvP_ZUdR0-2" target="zQP5jHf0tZskvP_ZUdR0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQP5jHf0tZskvP_ZUdR0-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zQP5jHf0tZskvP_ZUdR0-2" target="zQP5jHf0tZskvP_ZUdR0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Оценка технического состояния оборудования&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-3940" y="-2259" width="226" height="45" as="geometry" />
+          <mxGeometry x="-3940" y="-2231" width="226" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;данные изготовителя&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3655" y="-2322" width="418" height="45" as="geometry" />
+          <mxGeometry x="-3658" y="-2326.5" width="418" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;данные технической диагностики в процессе входного контроля&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3656" y="-2259" width="419" height="45" as="geometry" />
+          <mxGeometry x="-3659" y="-2263.5" width="419" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;данные испытаний&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3656" y="-2198" width="420" height="45" as="geometry" />
+          <mxGeometry x="-3659" y="-2202.5" width="420" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;данные мониторинга и технической диагностики, полученные в процессе эксплуатации&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-3656" y="-2131" width="420" height="45" as="geometry" />
+          <mxGeometry x="-3659" y="-2135.5" width="420" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
