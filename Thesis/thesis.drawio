@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17" pages="10">
   <diagram id="4HNWkwHAUxZwj-c0eTxy" name="Формирование проблематики">
-    <mxGraphModel dx="5247" dy="3488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5793" dy="3789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,9 @@
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="y5EgUFu4Ms3a7DukqDVk-16" target="y5EgUFu4Ms3a7DukqDVk-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5EgUFu4Ms3a7DukqDVk-16" target="y5EgUFu4Ms3a7DukqDVk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Выбор управляющего воздействия по&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1562" y="-1113" width="226" height="45" as="geometry" />
         </mxCell>
@@ -199,10 +202,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ИТС≤25&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-1807" y="-995" width="140" height="45" as="geometry" />
+          <mxGeometry x="-1752" y="-995" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;вывод из эксплуатации и включению в программу ТПиР&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1883" y="-898" width="292" height="45" as="geometry" />
+          <mxGeometry x="-1828" y="-898" width="292" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="y5EgUFu4Ms3a7DukqDVk-22" target="y5EgUFu4Ms3a7DukqDVk-25">
           <mxGeometry relative="1" as="geometry" />
@@ -212,6 +215,15 @@
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;серая зона&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1509" y="-898" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="y5EgUFu4Ms3a7DukqDVk-27" target="y5EgUFu4Ms3a7DukqDVk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;70&amp;lt;ИТС≤100&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1321" y="-995" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ТОиР&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1321" y="-898" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
