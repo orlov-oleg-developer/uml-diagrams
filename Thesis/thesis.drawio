@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17" pages="10">
   <diagram id="4HNWkwHAUxZwj-c0eTxy" name="Формирование проблематики">
-    <mxGraphModel dx="5687" dy="3731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5434" dy="3591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,14 @@
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-68" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="y5EgUFu4Ms3a7DukqDVk-65" target="y5EgUFu4Ms3a7DukqDVk-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="y5EgUFu4Ms3a7DukqDVk-65" target="y5EgUFu4Ms3a7DukqDVk-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-78" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Лимит финансирования&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" connectable="0" parent="y5EgUFu4Ms3a7DukqDVk-77">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-65" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Расчёт технических рисков&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2378" y="-301" width="249" height="45" as="geometry" />
         </mxCell>
@@ -340,6 +348,9 @@
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Как использовать&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-3590" y="-306" width="226" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-76" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Приоритезация объектов электросетевого хозяйства&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1919" y="-301" width="249" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
