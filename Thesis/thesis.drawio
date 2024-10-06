@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17" pages="10">
   <diagram id="4HNWkwHAUxZwj-c0eTxy" name="Формирование проблематики">
-    <mxGraphModel dx="6840" dy="4108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5091" dy="3171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="f9Gs9kiihaZqoKaJuMDG-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;За счёт чего принимаются решения?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-2955" y="-2417" width="291" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="1h97Gx_8APSMyN9OCTIZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="f9Gs9kiihaZqoKaJuMDG-12" target="1h97Gx_8APSMyN9OCTIZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1h97Gx_8APSMyN9OCTIZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="f9Gs9kiihaZqoKaJuMDG-12" target="1h97Gx_8APSMyN9OCTIZ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f9Gs9kiihaZqoKaJuMDG-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Риск отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2548" y="-2405" width="171" height="42" as="geometry" />
@@ -120,6 +126,12 @@
         </mxCell>
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1 - ИТС/100&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-3178" y="-1640" width="418" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1h97Gx_8APSMyN9OCTIZ-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Вероятность отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2645" y="-2275" width="171" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1h97Gx_8APSMyN9OCTIZ-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Последствия отказа&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2456" y="-2275" width="171" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
