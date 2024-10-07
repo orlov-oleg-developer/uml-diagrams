@@ -365,10 +365,67 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p0tBMF0wpPoo68HaV6Vl" name="Оценка состояния кабеля">
-    <mxGraphModel dx="1434" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5789" dy="2946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-1" target="MOjd_qd-kMGqT5g3-7eo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-1" target="MOjd_qd-kMGqT5g3-7eo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-1" target="MOjd_qd-kMGqT5g3-7eo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Сегмент&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3940" y="-2399" width="212" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Состояние кабельных муфт&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-4410" y="-2241" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-4" target="MOjd_qd-kMGqT5g3-7eo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-4" target="MOjd_qd-kMGqT5g3-7eo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Состояние изоляции&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-3930" y="-2241" width="192" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ток утечки&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-4034" y="-2171" width="192" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Коэффицент асимметрии токов утечки&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3826" y="-2171" width="234" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-11" target="MOjd_qd-kMGqT5g3-7eo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-11" target="MOjd_qd-kMGqT5g3-7eo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-11" target="MOjd_qd-kMGqT5g3-7eo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MOjd_qd-kMGqT5g3-7eo-11" target="MOjd_qd-kMGqT5g3-7eo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Состояние силового кабеля&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-3218" y="-2241" width="248" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Аномальный локальный&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;нагрев&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3549" y="-2171" width="215" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Наличие повреждения защитной оболочки кабеля&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3328.5" y="-2171" width="230.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Наличие повреждения/коррозии брони (оболочки)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3089.25" y="-2171" width="230.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MOjd_qd-kMGqT5g3-7eo-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Наличие повреждения механической защиты выхода кабеля&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="-2171" width="317" height="42.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
