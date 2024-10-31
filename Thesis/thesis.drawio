@@ -370,8 +370,14 @@
         <mxCell id="qXylxugw2mPhUZgOX8hY-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Что можно улучшить?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="-2406.5" width="226" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qXylxugw2mPhUZgOX8hY-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Дефект может возникнуть между этапами оценки&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="qXylxugw2mPhUZgOX8hY-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Дефект может возникнуть между осмотрами&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1271" y="-2514" width="226" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qXylxugw2mPhUZgOX8hY-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Дефект может возникнуть между этапами оценки&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="-2323" width="226" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qXylxugw2mPhUZgOX8hY-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.599;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="qXylxugw2mPhUZgOX8hY-1" target="qXylxugw2mPhUZgOX8hY-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
