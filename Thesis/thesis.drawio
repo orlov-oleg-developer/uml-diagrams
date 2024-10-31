@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.3" pages="11">
   <diagram id="4HNWkwHAUxZwj-c0eTxy" name="Формирование проблематики">
-    <mxGraphModel dx="6606" dy="4417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6312" dy="4255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="zQP5jHf0tZskvP_ZUdR0-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;после технического воздействия, которое привело к изменению технического состояния&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1443" y="-2104" width="418" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zQP5jHf0tZskvP_ZUdR0-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ежегодно&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="zQP5jHf0tZskvP_ZUdR0-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;в соответствии с планом&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1442" y="-2038" width="418" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zQP5jHf0tZskvP_ZUdR0-22" target="y5EgUFu4Ms3a7DukqDVk-3" edge="1">
