@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.3" pages="11">
   <diagram id="4HNWkwHAUxZwj-c0eTxy" name="Формирование проблематики">
-    <mxGraphModel dx="5834" dy="3591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5219" dy="3252" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
         <mxCell id="1h97Gx_8APSMyN9OCTIZ-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Исторические данные&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2560.5" y="-2164.5" width="196" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="y5EgUFu4Ms3a7DukqDVk-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Можно ли считать вероятность отказа?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="y5EgUFu4Ms3a7DukqDVk-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Можно ли улучшить существующий подход?&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2741.5" y="-2093.5" width="242" height="42" as="geometry" />
         </mxCell>
         <mxCell id="y5EgUFu4Ms3a7DukqDVk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y5EgUFu4Ms3a7DukqDVk-3" target="zQP5jHf0tZskvP_ZUdR0-23" edge="1">
