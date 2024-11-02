@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p0tBMF0wpPoo68HaV6Vl" name="Оценка состояния кабеля">
-    <mxGraphModel dx="6849" dy="3530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5789" dy="2946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,6 +499,9 @@
         </mxCell>
         <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;БО: 1 - 4&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3135" y="-2108" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;БО: 0&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-4127" y="-1862" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
