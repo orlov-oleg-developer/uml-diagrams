@@ -2211,7 +2211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rsv-8rJ0PiU6LfV4fw8q" name="Расчёт ИТС">
-    <mxGraphModel dx="2234" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2275,6 +2275,48 @@
         </mxCell>
         <mxCell id="WhvpQy4NWjlpOxGFdTxh-18" value="Единицы измерения и возможные значения - графы 10 и 11&#xa;Бальная шкала оценки - графы 12 - 16" style="text;whiteSpace=wrap;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-262" y="483" width="353" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-1" value="Фу_1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="9" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-2" value="Фу_2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-3" value="Фу_i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="74" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="fmEqfIhoCXRxeqYIVdcw-4" target="fmEqfIhoCXRxeqYIVdcw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmEqfIhoCXRxeqYIVdcw-4" target="fmEqfIhoCXRxeqYIVdcw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="fmEqfIhoCXRxeqYIVdcw-4" target="fmEqfIhoCXRxeqYIVdcw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-4" value="Единица оборудования_i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="168" y="42" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-9" value="Фу_1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-10" value="Фу_2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-62" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-11" value="Фу_i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="fmEqfIhoCXRxeqYIVdcw-15" target="fmEqfIhoCXRxeqYIVdcw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmEqfIhoCXRxeqYIVdcw-15" target="fmEqfIhoCXRxeqYIVdcw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="fmEqfIhoCXRxeqYIVdcw-15" target="fmEqfIhoCXRxeqYIVdcw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmEqfIhoCXRxeqYIVdcw-15" value="Единица оборудования_1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167" y="-62" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
