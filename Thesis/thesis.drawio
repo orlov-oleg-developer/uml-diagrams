@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p0tBMF0wpPoo68HaV6Vl" name="Оценка состояния кабеля">
-    <mxGraphModel dx="5789" dy="2946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6166" dy="3153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,6 +502,39 @@
         </mxCell>
         <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;БО: 0&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-4127" y="-1862" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zyFDC4KNOS3dB1eQJ-Nm-6" target="zyFDC4KNOS3dB1eQJ-Nm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zyFDC4KNOS3dB1eQJ-Nm-6" target="zyFDC4KNOS3dB1eQJ-Nm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="zyFDC4KNOS3dB1eQJ-Nm-6" target="zyFDC4KNOS3dB1eQJ-Nm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Общие сведения&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-3227" y="-2068" width="306" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Срок службы&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="-3352.5" y="-1960" width="180" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Затопление участка трассы&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="-3164.5" y="-1960" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Оползень, смещение грунта&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="-2970.5" y="-1960" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Состояние плакатов&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-3355.5" y="-1885" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;ДКР в охранной зоне&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-3164.5" y="-1885" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Завалы в охранной зоне&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-2973.5" y="-1885" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="zyFDC4KNOS3dB1eQJ-Nm-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Строение в охранной зоне&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-3164.5" y="-1816" width="180" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
