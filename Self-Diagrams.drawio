@@ -289,7 +289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t1wJ0FVctFoIIOnMfYx0" name="Diagramm">
-    <mxGraphModel dx="1244" dy="-335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="-423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,6 +409,18 @@
         </mxCell>
         <mxCell id="Ugy8d1si8Ck49avfCZ4W-12" value="ServerProvider" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="465" y="1251" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugy8d1si8Ck49avfCZ4W-17" value="&amp;nbsp; проверка работы сервера" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="583" y="1251" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugy8d1si8Ck49avfCZ4W-18" value="&amp;nbsp; подключение redux" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="583" y="1189" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugy8d1si8Ck49avfCZ4W-19" value="&amp;nbsp; проверка авторизации" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="583" y="1314" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugy8d1si8Ck49avfCZ4W-20" value="&amp;nbsp; подключение контекста reactFlow" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="591" y="1372" width="203" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
