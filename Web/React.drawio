@@ -40,11 +40,20 @@
         <mxCell id="XHGnrZOuNF_Wv5565_K6-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Обновление DOM" vertex="1">
           <mxGeometry height="30" width="130" x="885" y="330" as="geometry" />
         </mxCell>
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-16" edge="1" parent="1" source="XHGnrZOuNF_Wv5565_K6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XHGnrZOuNF_Wv5565_K6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XHGnrZOuNF_Wv5565_K6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Сравнение типов элементов" vertex="1">
           <mxGeometry height="30" width="190" x="450" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-18" edge="1" parent="1" source="XHGnrZOuNF_Wv5565_K6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XHGnrZOuNF_Wv5565_K6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XHGnrZOuNF_Wv5565_K6-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Рекурсивное сравнение дочерних элементов" vertex="1">
-          <mxGeometry height="30" width="190" x="450" y="490" as="geometry" />
+          <mxGeometry height="30" width="190" x="450" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Оптимизация списков с помощью ключей (keys)" vertex="1">
+          <mxGeometry height="30" width="190" x="450" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
