@@ -13,20 +13,23 @@
         <mxCell id="XHGnrZOuNF_Wv5565_K6-5" edge="1" parent="1" source="XHGnrZOuNF_Wv5565_K6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XHGnrZOuNF_Wv5565_K6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHGnrZOuNF_Wv5565_K6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Virtual DOM" vertex="1">
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Virtual DOM" vertex="1">
           <mxGeometry height="30" width="120" x="280" y="380" as="geometry" />
         </mxCell>
         <mxCell id="XHGnrZOuNF_Wv5565_K6-7" edge="1" parent="1" source="XHGnrZOuNF_Wv5565_K6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XHGnrZOuNF_Wv5565_K6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHGnrZOuNF_Wv5565_K6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Diffing" vertex="1">
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Diffing" vertex="1">
           <mxGeometry height="30" width="120" x="485" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="XHGnrZOuNF_Wv5565_K6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Diffing" vertex="1">
-          <mxGeometry height="30" width="120" x="675" y="380" as="geometry" />
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Effect List" vertex="1">
+          <mxGeometry height="30" width="120" x="740" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="XHGnrZOuNF_Wv5565_K6-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="какие элементы были добавлены, удалены или изменены" vertex="1">
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Какие элементы были добавлены, удалены или изменены" vertex="1">
           <mxGeometry height="30" width="210" x="440" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Применяется в&amp;nbsp;&lt;div&gt;Commit Phase&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="735" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
