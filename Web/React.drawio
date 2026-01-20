@@ -43,6 +43,9 @@
         <mxCell id="XHGnrZOuNF_Wv5565_K6-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Сравнение типов элементов" vertex="1">
           <mxGeometry height="30" width="190" x="450" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Рекурсивное сравнение дочерних элементов" vertex="1">
+          <mxGeometry height="30" width="190" x="450" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
