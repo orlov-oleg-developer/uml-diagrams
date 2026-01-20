@@ -19,8 +19,8 @@
         <mxCell id="XHGnrZOuNF_Wv5565_K6-7" edge="1" parent="1" source="XHGnrZOuNF_Wv5565_K6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XHGnrZOuNF_Wv5565_K6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHGnrZOuNF_Wv5565_K6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Diffing" vertex="1">
-          <mxGeometry height="30" width="120" x="485" y="380" as="geometry" />
+        <mxCell id="XHGnrZOuNF_Wv5565_K6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;Render Phase&lt;/b&gt;&lt;br&gt;(Diffing)" vertex="1">
+          <mxGeometry height="50" width="120" x="485" y="370" as="geometry" />
         </mxCell>
         <mxCell id="XHGnrZOuNF_Wv5565_K6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Effect List" vertex="1">
           <mxGeometry height="30" width="120" x="702" y="380" as="geometry" />
